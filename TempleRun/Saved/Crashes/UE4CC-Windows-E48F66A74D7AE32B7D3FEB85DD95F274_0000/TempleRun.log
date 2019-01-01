@@ -1,0 +1,874 @@
+﻿Log file open, 01/01/19 14:00:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TempleRun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173200
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.104s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.01-12.00.34:427][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.01-12.00.34:427][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.01-12.00.34:440][  0]LogHAL: Display: Platform has ~ 8 GB [8488329216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.01-12.00.34:440][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.01-12.00.34:440][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.01-12.00.34:441][  0]LogInit: Computer: DESKTOP-GD1OE23
+[2019.01.01-12.00.34:441][  0]LogInit: User: אורלי
+[2019.01.01-12.00.34:441][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.01-12.00.34:441][  0]LogInit: High frequency timer resolution =2.340362 MHz
+[2019.01.01-12.00.34:442][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.01-12.00.34:442][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.01-12.00.34:442][  0]LogMemory: Process Physical Memory: 99.49 MB used, 99.49 MB peak
+[2019.01.01-12.00.34:442][  0]LogMemory: Process Virtual Memory: 90.86 MB used, 90.86 MB peak
+[2019.01.01-12.00.34:442][  0]LogMemory: Physical Memory: 5102.40 MB used,  2992.70 MB free, 8095.10 MB total
+[2019.01.01-12.00.34:442][  0]LogMemory: Virtual Memory: 492.29 MB used,  2992.70 MB free, 134217728.00 MB total
+[2019.01.01-12.00.34:471][  0]LogInit: Using OS detected language (he-IL).
+[2019.01.01-12.00.34:471][  0]LogInit: Using OS detected locale (he-IL).
+[2019.01.01-12.00.34:472][  0]LogTextLocalizationManager: No localization for 'he-IL' exists, so 'en' will be used for the language.
+[2019.01.01-12.00.34:911][  0]LogStreaming: Display: Took  0.440s to InitEngineTextLocalization.
+[2019.01.01-12.00.34:911][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.01-12.00.34:946][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.01-12.00.34:946][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.01-12.00.35:158][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.01-12.00.35:158][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.01-12.00.35:163][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2019.01.01-12.00.35:163][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.01.01-12.00.35:164][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.01-12.00.35:164][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.01-12.00.35:164][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.01-12.00.35:168][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.01-12.00.35:169][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.01-12.00.35:169][  0]LogWindows: EnumDisplayDevices:
+[2019.01.01-12.00.35:169][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2019.01.01-12.00.35:169][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2019.01.01-12.00.35:169][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2019.01.01-12.00.35:169][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.01.01-12.00.35:169][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2019.01.01-12.00.35:169][  0]LogD3D11RHI:   Driver Version: 20.19.15.4549 (internal:20.19.15.4549, unified:20.19.15.4549)
+[2019.01.01-12.00.35:169][  0]LogD3D11RHI:      Driver Date: 11-10-2016
+[2019.01.01-12.00.35:169][  0]LogRHI: Texture pool is 1506 MB (70% of 2151 MB)
+[2019.01.01-12.00.35:173][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.01-12.00.35:177][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.01.01-12.00.35:178][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Users/אורלי/Desktop/TempleRun/Intermediate/Shaders/WorkingDirectory/8180/).
+[2019.01.01-12.00.35:178][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/אורלי/AppData/Local/Temp/UnrealShaderWorkingDir/2902BDB0482059D9DB6DFE89205D9ACF/'.
+[2019.01.01-12.00.35:501][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.01-12.00.35:515][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.01-12.00.35:530][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.01-12.00.35:545][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.01-12.00.35:560][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.01-12.00.35:574][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.01-12.00.35:589][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.01-12.00.35:604][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.01-12.00.35:610][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.01-12.00.35:701][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.01-12.00.35:766][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.01-12.00.35:766][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.01-12.00.35:795][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.01-12.00.35:795][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.01-12.00.35:810][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.01-12.00.35:827][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.01-12.00.35:842][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.01-12.00.35:858][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.01-12.00.35:868][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.01-12.00.35:869][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.01-12.00.35:928][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.01-12.00.35:928][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.01-12.00.35:928][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.01-12.00.36:875][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.01-12.00.36:961][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.01-12.00.36:961][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.01-12.00.36:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/אורלי/Desktop/TempleRun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.01-12.00.36:962][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.01-12.00.36:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/אורלי/Desktop/TempleRun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.01-12.00.36:962][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.01-12.00.36:977][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.01-12.00.36:988][  0]LogDerivedDataCache: Using Local data cache path C:/Users/אורלי/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.01-12.00.36:988][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.01-12.00.36:988][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.01-12.00.37:011][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.01-12.00.37:012][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.01-12.00.37:013][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.01-12.00.37:092][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2019.01.01-12.00.37:527][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.01-12.00.37:677][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.01-12.00.37:680][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.01-12.00.37:680][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.01-12.00.37:681][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.01-12.00.37:681][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.01-12.00.37:701][  0]LogNetVersion: TempleRun 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2232543940)
+[2019.01.01-12.00.38:221][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.043337 seconds
+[2019.01.01-12.00.38:229][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.01-12.00.38:229][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.01-12.00.38:229][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.01-12.00.39:209][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.01-12.00.39:231][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.01-12.00.39:369][  0]SourceControl: Source control is disabled
+[2019.01.01-12.00.39:369][  0]SourceControl: Source control is disabled
+[2019.01.01-12.00.39:370][  0]SourceControl: Source control is disabled
+[2019.01.01-12.00.39:370][  0]SourceControl: Source control is disabled
+[2019.01.01-12.00.39:525][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.01-12.00.39:558][  0]LogOcInput: OculusInput pre-init called
+[2019.01.01-12.00.39:625][  0]LogEngine: Initializing Engine...
+[2019.01.01-12.00.39:626][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.01-12.00.39:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.01-12.00.39:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.01-12.00.39:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.01-12.00.39:628][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.01-12.00.39:891][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.01-12.00.39:904][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.01-12.00.39:919][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.01-12.00.39:927][  0]LogInit: FAudioDevice initialized.
+[2019.01.01-12.00.39:927][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.01-12.00.39:999][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.01-12.00.40:006][  0]LogInit: Texture streaming: Enabled
+[2019.01.01-12.00.40:022][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.01-12.00.40:031][  0]LogInit: Transaction tracking system initialized
+[2019.01.01-12.00.40:051][  0]BlueprintLog: New page: Editor Load
+[2019.01.01-12.00.40:175][  0]LocalizationService: Localization service is disabled
+[2019.01.01-12.00.40:441][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.01-12.00.40:441][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.01-12.00.40:441][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.01-12.00.40:442][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.01-12.00.40:442][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.01-12.00.40:442][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.01-12.00.40:442][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.01-12.00.40:571][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/TempleRun/Content/' took 0.01s
+[2019.01.01-12.00.40:571][  0]SourceControl: Source control is disabled
+[2019.01.01-12.00.40:572][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2019.01.01-12.00.40:586][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.01.01-12.00.40:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.01.01-12.00.40:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.01.01-12.00.40:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.01.01-12.00.40:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.01.01-12.00.40:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.01.01-12.00.40:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.01.01-12.00.40:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.01.01-12.00.40:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.01.01-12.00.40:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.01.01-12.00.40:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.01.01-12.00.40:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.01.01-12.00.40:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.01.01-12.00.40:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.01.01-12.00.40:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.01.01-12.00.40:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.01.01-12.00.40:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.01.01-12.00.40:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.01.01-12.00.40:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Fire01.uasset"
+[2019.01.01-12.00.40:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.01.01-12.00.40:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.01.01-12.00.40:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.01.01-12.00.40:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Light01.uasset"
+[2019.01.01-12.00.40:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.01.01-12.00.40:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Light02.uasset"
+[2019.01.01-12.00.40:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.01.01-12.00.40:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.01.01-12.00.40:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.01.01-12.00.40:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.01.01-12.00.40:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.01.01-12.00.40:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.01.01-12.00.40:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.01.01-12.00.40:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.01.01-12.00.40:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.01.01-12.00.40:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Steam01.uasset"
+[2019.01.01-12.00.40:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.01.01-12.00.40:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.01.01-12.00.40:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.01.01-12.00.40:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.01.01-12.00.40:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.01.01-12.00.40:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.01.01-12.00.40:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.01.01-12.00.40:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.01.01-12.00.40:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.01.01-12.00.40:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.01.01-12.00.40:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.01.01-12.00.40:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.01.01-12.00.40:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.01.01-12.00.40:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.01.01-12.00.40:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.01.01-12.00.40:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.01.01-12.00.40:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.01.01-12.00.40:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.01.01-12.00.40:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.01.01-12.00.40:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.01.01-12.00.40:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.01.01-12.00.41:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.01.01-12.00.41:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Maps/StarterMap.umap"
+[2019.01.01-12.00.41:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.01.01-12.00.41:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.01.01-12.00.41:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.01.01-12.00.41:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.01.01-12.00.41:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.01.01-12.00.41:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.01.01-12.00.41:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.01.01-12.00.41:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.01.01-12.00.41:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.01.01-12.00.41:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.01.01-12.00.41:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.01.01-12.00.41:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.01.01-12.00.41:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.01.01-12.00.41:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.01.01-12.00.41:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.01.01-12.00.41:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.01.01-12.00.41:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.01.01-12.00.41:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.01.01-12.00.41:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.01.01-12.00.41:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.01.01-12.00.41:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.01.01-12.00.41:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.01.01-12.00.41:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.01.01-12.00.41:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.01.01-12.00.41:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.01.01-12.00.41:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.01.01-12.00.41:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.01.01-12.00.41:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.01.01-12.00.41:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.01.01-12.00.41:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.01.01-12.00.41:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.01.01-12.00.41:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.01.01-12.00.41:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.01.01-12.00.41:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.01.01-12.00.41:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.01.01-12.00.41:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.01.01-12.00.41:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.01.01-12.00.41:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.01.01-12.00.41:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.01.01-12.00.41:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.01.01-12.00.41:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.01.01-12.00.41:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.01.01-12.00.41:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.01.01-12.00.41:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.01.01-12.00.41:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.01.01-12.00.41:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.01.01-12.00.41:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.01.01-12.00.41:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.01.01-12.00.41:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.01.01-12.00.41:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.01.01-12.00.41:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.01.01-12.00.41:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.01.01-12.00.41:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.01.01-12.00.41:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.01.01-12.00.41:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.01.01-12.00.41:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.01.01-12.00.41:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.01.01-12.00.41:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.01.01-12.00.41:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.01.01-12.00.41:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.01.01-12.00.41:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.01.01-12.00.41:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.01.01-12.00.41:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.01.01-12.00.41:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.01.01-12.00.41:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.01.01-12.00.41:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Door.uasset"
+[2019.01.01-12.00.41:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.01.01-12.00.41:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.01.01-12.00.41:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.01.01-12.00.41:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.01.01-12.00.41:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.01.01-12.00.41:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.01.01-12.00.41:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.01.01-12.00.41:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.01.01-12.00.41:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.01.01-12.00.41:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.01.01-12.00.41:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.01.01-12.00.41:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.01.01-12.00.41:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.01.01-12.00.41:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.01.01-12.00.41:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.01.01-12.00.41:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.01.01-12.00.41:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.01.01-12.00.41:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.01.01-12.00.41:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.01.01-12.00.41:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.01.01-12.00.41:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.01.01-12.00.41:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.01.01-12.00.41:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.01.01-12.00.41:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.01.01-12.00.41:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.01.01-12.00.41:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.01.01-12.00.41:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.01.01-12.00.41:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.01.01-12.00.41:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.01.01-12.00.41:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.01.01-12.00.41:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.01.01-12.00.41:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.01.01-12.00.41:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.01.01-12.00.41:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.01.01-12.00.41:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.01.01-12.00.41:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.01.01-12.00.41:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.01.01-12.00.41:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.01.01-12.00.41:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.01.01-12.00.41:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.01.01-12.00.41:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.01.01-12.00.41:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.01.01-12.00.41:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.01.01-12.00.41:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.01.01-12.00.41:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.01.01-12.00.41:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.01.01-12.00.41:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.01.01-12.00.41:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.01.01-12.00.41:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.01.01-12.00.41:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.01.01-12.00.41:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.01.01-12.00.42:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.01.01-12.00.42:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.01.01-12.00.42:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.01.01-12.00.42:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.01.01-12.00.42:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.01.01-12.00.42:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.01.01-12.00.42:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.01.01-12.00.42:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.01.01-12.00.42:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.01.01-12.00.42:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.01.01-12.00.42:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.01.01-12.00.42:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.01.01-12.00.42:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.01.01-12.00.42:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.01.01-12.00.42:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.01.01-12.00.42:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.01.01-12.00.42:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.01.01-12.00.42:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.01.01-12.00.42:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.01.01-12.00.42:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.01.01-12.00.42:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.01.01-12.00.42:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.01.01-12.00.42:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.01.01-12.00.42:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.01.01-12.00.42:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.01.01-12.00.42:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.01.01-12.00.42:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.01.01-12.00.42:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.01.01-12.00.42:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.01.01-12.00.42:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.01.01-12.00.42:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.01.01-12.00.42:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.01.01-12.00.42:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.01.01-12.00.42:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.01.01-12.00.42:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.01.01-12.00.42:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.01.01-12.00.42:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.01.01-12.00.42:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.01.01-12.00.42:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.01.01-12.00.42:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.01.01-12.00.42:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.01.01-12.00.42:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.01.01-12.00.42:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.01.01-12.00.43:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.01.01-12.00.43:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.01.01-12.00.43:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.01.01-12.00.43:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.01.01-12.00.43:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.01.01-12.00.43:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.01.01-12.00.43:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.01.01-12.00.43:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.01.01-12.00.44:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.01.01-12.00.44:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.01.01-12.00.44:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.01.01-12.00.44:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.01.01-12.00.44:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.01.01-12.00.44:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.01.01-12.00.44:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.01.01-12.00.44:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.01.01-12.00.44:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.01.01-12.00.44:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.01.01-12.00.44:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.01.01-12.00.44:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.01.01-12.00.44:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.01.01-12.00.44:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.01.01-12.00.44:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.01.01-12.00.44:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.01.01-12.00.44:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.01.01-12.00.44:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.01.01-12.00.44:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.01.01-12.00.44:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.01.01-12.00.44:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.01.01-12.00.44:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.01.01-12.00.44:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.01.01-12.00.44:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.01.01-12.00.44:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.01.01-12.00.44:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.01.01-12.00.44:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.01.01-12.00.44:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.01.01-12.00.44:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.01.01-12.00.44:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.01.01-12.00.44:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.01.01-12.00.44:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.01.01-12.00.44:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.01.01-12.00.44:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.01.01-12.00.44:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.01.01-12.00.44:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.01.01-12.00.44:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.01.01-12.00.44:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.01.01-12.00.44:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.01.01-12.00.44:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.01.01-12.00.44:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.01.01-12.00.44:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.01.01-12.00.44:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.01.01-12.00.44:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.01.01-12.00.44:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.01.01-12.00.44:879][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.01.01-12.00.44:885][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.01.01-12.00.44:938][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.01.01-12.00.45:235][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2019.01.01-12.00.45:249][  0]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/Floor_400x400D79000BB47915F1EB5CA2C8D75949A9D.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.01.01-12.00.45:252][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.01.01-12.00.45:253][  0]Cmd: MAP LOAD FILE="../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.01-12.00.45:253][  0]LightingResults: New page: Lighting Build
+[2019.01.01-12.00.45:256][  0]MapCheck: New page: Map Check
+[2019.01.01-12.00.45:256][  0]LightingResults: New page: Lighting Build
+[2019.01.01-12.00.45:762][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.01-12.00.45:787][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.01-12.00.45:813][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.01-12.00.45:869][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.397ms to complete.
+[2019.01.01-12.00.45:869][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.616
+[2019.01.01-12.00.45:929][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.01-12.00.45:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.00.45:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.00.45:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.00.45:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.00.45:997][  0]LogCollectionManager: Loaded 0 collections in 0.001460 seconds
+[2019.01.01-12.00.46:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/TempleRun/Saved/Collections/' took 0.01s
+[2019.01.01-12.00.46:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/TempleRun/Content/Developers/אורלי/Collections/' took 0.01s
+[2019.01.01-12.00.46:039][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/TempleRun/Content/Collections/' took 0.01s
+[2019.01.01-12.00.46:039][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.01-12.00.46:057][  0]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2572 classes and 603 folders.
+[2019.01.01-12.00.46:063][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.01-12.00.46:099][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.01-12.00.46:105][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.01-12.00.46:192][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.01-12.00.46:195][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.01-12.00.46:203][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.01-12.00.46:272][  0]LogRenderer: Reallocating scene render targets to support 856x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.01-12.00.46:678][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.01-12.00.46:679][  0]LogLoad: (Engine Initialization) Total time: 13.54 seconds
+[2019.01.01-12.00.46:679][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.01-12.00.46:722][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.01-12.00.47:243][  1]LogAssetRegistry: Asset discovery search completed in 10.1726 seconds
+[2019.01.01-12.00.47:245][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.01-12.00.47:246][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.01.01-12.00.56:001][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.01.06:955][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.01.07:191][510]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.01-12.02.28:498][353]LogSlate: Took 0.001260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.01-12.02.28:516][353]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.01.01-12.02.29:113][353]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2019.01.01-12.02.29:989][353]LogSlate: Took 0.001897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.01-12.02.30:152][354]LogSlate: Took 0.001514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.01-12.02.32:817][489]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.01.01-12.03.05:743][556]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.01-12.03.19:607][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.01-12.03.36:473][723]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.01-12.04.13:546][795]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/RunCharacter'
+[2019.01.01-12.04.13:546][795]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/RunCharacter'
+[2019.01.01-12.04.18:739][ 93]LogSlate: Took 0.005049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.01-12.04.40:396][376]LogEditorTransaction: Undo Add New Event Dispatcher
+[2019.01.01-12.05.12:045][832]LogSlate: Took 0.002016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.01-12.05.16:592][964]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.01.01-12.05.21:673][247]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.01-12.05.21:675][247]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.01-12.05.51:954][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.05.58:596][865]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacter4B9041214A50848EBB566EBF2C08ED95.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.05.59:753][917]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.01-12.06.00:550][934]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacter39A726DF43E9021C30E2C5A5492FE8B0.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.06.32:978][228]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacterD17A52494779EBF94575C5A4A7183E1E.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.06.33:872][281]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.01-12.06.34:718][304]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacter717A1A4D41DFC332F7D597A43D7973A1.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.06.42:481][662]LogRenderer: Reallocating scene render targets to support 1028x576 Format 10 NumSamples 1 (Frame:1330).
+[2019.01.01-12.06.43:299][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.01.01-12.06.46:805][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.01-12.06.50:417][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.01-12.06.51:054][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.01-12.06.51:818][889]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.01-12.06.58:877][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.01-12.07.01:436][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.01.01-12.07.02:718][189]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.01-12.07.02:766][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.07.02:767][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.01-12.07.02:782][189]PIE: New page: PIE session: ThirdPersonExampleMap (1 בינו׳ 2019, 16:07:02)
+[2019.01.01-12.07.02:782][189]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.01-12.07.02:819][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037046s)
+[2019.01.01-12.07.02:820][189]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.01-12.07.02:820][189]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2019.01.01-12.07.02:820][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038210s)
+[2019.01.01-12.07.02:852][189]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.01-12.07.02:860][189]LogInit: FAudioDevice initialized.
+[2019.01.01-12.07.02:860][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.01-12.07.02:913][189]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.01-12.07.02:916][189]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.01-14.07.02
+[2019.01.01-12.07.02:917][189]LogWorld: Bringing up level for play took: 0.002758
+[2019.01.01-12.07.02:942][189]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.01.01-12.07.02:942][189]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap ‎-0.152
+[2019.01.01-12.07.02:943][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.07.11:254][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.07.11:254][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.07.11:325][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.01-12.07.11:325][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.07.11:357][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.07.11:404][450]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.01-12.07.12:262][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.01.01-12.07.33:566][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.08.07:103][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.08.27:231][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.08.33:096][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.01-12.09.01:392][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.09.15:519][506]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.01.01-12.09.15:628][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.01-12.09.21:143][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.01-12.09.21:146][672]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.01.01-12.10.26:767][452]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.01-12.10.27:618][476]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacter5B5D84B1423754D390067FA63B6B4E06.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.10.29:430][540]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.01-12.10.29:487][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.10.29:487][540]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.01-12.10.29:490][540]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2019.01.01-12.10.29:651][540]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2019.01.01-12.10.29:651][540]PIE: New page: PIE session: ThirdPersonExampleMap (1 בינו׳ 2019, 16:10:29)
+[2019.01.01-12.10.29:651][540]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.01-12.10.29:671][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019276s)
+[2019.01.01-12.10.29:671][540]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.01-12.10.29:672][540]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2019.01.01-12.10.29:672][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020510s)
+[2019.01.01-12.10.29:715][540]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.01-12.10.29:723][540]LogInit: FAudioDevice initialized.
+[2019.01.01-12.10.29:752][540]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.01-12.10.29:755][540]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.01-14.10.29
+[2019.01.01-12.10.29:755][540]LogWorld: Bringing up level for play took: 0.002856
+[2019.01.01-12.10.29:768][540]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.673
+[2019.01.01-12.10.29:768][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.10.33:391][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.10.33:391][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.10.33:460][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.01-12.10.33:461][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.10.33:494][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.10.33:533][679]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.01-12.10.36:122][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.10.50:165][593]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.01-12.10.52:083][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.01-12.10.52:133][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.10.52:134][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.01-12.10.52:134][650]PIE: New page: PIE session: ThirdPersonExampleMap (1 בינו׳ 2019, 16:10:52)
+[2019.01.01-12.10.52:134][650]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.01-12.10.52:153][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018980s)
+[2019.01.01-12.10.52:154][650]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.01-12.10.52:154][650]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2019.01.01-12.10.52:154][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019958s)
+[2019.01.01-12.10.52:187][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.01-12.10.52:194][650]LogInit: FAudioDevice initialized.
+[2019.01.01-12.10.52:224][650]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.01-12.10.52:227][650]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.01-14.10.52
+[2019.01.01-12.10.52:227][650]LogWorld: Bringing up level for play took: 0.001983
+[2019.01.01-12.10.52:239][650]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap ‎-0.856
+[2019.01.01-12.10.52:240][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.11.33:697][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.11.33:697][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.11.33:766][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.01-12.11.33:766][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.11.33:800][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.11.33:839][250]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.01-12.11.34:981][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.11.40:360][592]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacterF99AEACD44249CF1B47C62BCE95EDA12.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.11.40:837][620]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.01-12.11.41:694][644]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacter70CDEA0843AD8EA7E2361C8475083D7D.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.12.08:594][870]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonExampleMap_Auto1B31BF9CC43F296DF4ED7D5AC283AE485.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.01.01-12.12.08:598][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.792
+[2019.01.01-12.12.08:598][870]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.792
+[2019.01.01-12.13.33:716][119]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.01.01-12.13.35:179][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.01-12.13.41:041][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.14.06:292][267]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.01.01-12.14.06:293][267]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunCharacter.SKEL_RunCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.01.01-12.14.06:368][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.01.01-12.14.06:419][267]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/RunCharacterFECFE89E4D8B29DE697611BF1E3B277C.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.01.01-12.14.06:429][267]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonCharacterADCDD6594C529AAF82045CB4284C105B.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.01-12.14.15:210][556]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2019.01.01-12.14.15:210][556]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2019.01.01-12.14.15:230][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2019.01.01-12.14.15:236][556]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/RunGameModeBAE3693D42464B554F8C64A011F8E872.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.01-12.15.18:439][256]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.01.01-12.15.18:444][256]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The type of  Object  is undetermined.  Connect something to  Cast To RunCharacter  to imply a specific type.
+[2019.01.01-12.15.18:445][256]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.01.01-12.15.18:617][256]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0885.48] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 0 Warning(s) [in 177 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2019.01.01-12.15.19:353][292]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The type of  Object  is undetermined.  Connect something to  Cast To RunCharacter  to imply a specific type.
+[2019.01.01-12.15.19:353][292]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.01.01-12.15.19:354][292]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0886.21] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 0 Warning(s) [in 3 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2019.01.01-12.15.19:535][292]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonExampleMap60191AD34976F9925BE4358410119535.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.01-12.15.19:610][292]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.370
+[2019.01.01-12.15.19:793][303]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.01.01-12.15.19:797][303]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The type of  Object  is undetermined.  Connect something to  Cast To RunCharacter  to imply a specific type.
+[2019.01.01-12.15.19:797][303]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.01.01-12.15.19:957][303]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [0886.82] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 0 Warning(s) [in 163 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2019.01.01-12.16.01:281][ 15]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/TempleRun/Saved/ThirdPersonExampleMap2080E84B4389DA4C5CB46B8AEF11157B.tmp' to '../../../../../../Users/אורלי/Desktop/TempleRun/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.01-12.16.01:293][ 15]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.341
+[2019.01.01-12.16.01:941][ 54]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.01.01-12.16.07:393][282]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.01-12.16.07:423][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.07:423][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.01-12.16.07:424][282]PIE: New page: PIE session: ThirdPersonExampleMap (1 בינו׳ 2019, 16:16:07)
+[2019.01.01-12.16.07:424][282]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.01-12.16.07:458][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034143s)
+[2019.01.01-12.16.07:459][282]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.01-12.16.07:459][282]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2019.01.01-12.16.07:459][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035563s)
+[2019.01.01-12.16.07:503][282]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.01-12.16.07:511][282]LogInit: FAudioDevice initialized.
+[2019.01.01-12.16.07:543][282]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.01.01-12.16.07:543][282]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.01.01-12.16.07:543][282]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.01.01-12.16.07:543][282]LogLoad: Game class is 'GameModeBase'
+[2019.01.01-12.16.07:546][282]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.01-14.16.07
+[2019.01.01-12.16.07:546][282]LogWorld: Bringing up level for play took: 0.002785
+[2019.01.01-12.16.07:558][282]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.464
+[2019.01.01-12.16.07:559][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.11:395][428]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.11:396][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.16.11:463][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.01-12.16.11:464][428]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.11:497][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.16.11:518][429]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.01-12.16.14:272][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.01.01-12.16.15:605][605]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.01-12.16.15:621][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.15:621][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.01-12.16.15:622][605]PIE: New page: PIE session: ThirdPersonExampleMap (1 בינו׳ 2019, 16:16:15)
+[2019.01.01-12.16.15:622][605]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.01-12.16.15:653][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030730s)
+[2019.01.01-12.16.15:656][605]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.01-12.16.15:657][605]LogPlayLevel: PIE: World Init took: (0.003562s)
+[2019.01.01-12.16.15:657][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034881s)
+[2019.01.01-12.16.15:699][605]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.01-12.16.15:705][605]LogInit: FAudioDevice initialized.
+[2019.01.01-12.16.15:705][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.01-12.16.15:735][605]LogLoad: Game class is 'GameModeBase'
+[2019.01.01-12.16.15:737][605]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.01-14.16.15
+[2019.01.01-12.16.15:738][605]LogWorld: Bringing up level for play took: 0.001910
+[2019.01.01-12.16.15:750][605]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.655
+[2019.01.01-12.16.15:750][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.22:186][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.22:186][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.16.22:255][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.01-12.16.22:256][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.22:289][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.16.22:307][859]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.01-12.16.23:203][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.16.33:639][274]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.01-12.16.33:658][274]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.33:658][274]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.01-12.16.33:683][274]LogPlayLevel: [PlayLevel] Compiling RunCharacter before play...
+[2019.01.01-12.16.33:896][274]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2019.01.01-12.16.33:896][274]PIE: New page: PIE session: ThirdPersonExampleMap (1 בינו׳ 2019, 16:16:33)
+[2019.01.01-12.16.33:896][274]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.01-12.16.33:907][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011377s)
+[2019.01.01-12.16.33:908][274]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.01-12.16.33:908][274]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2019.01.01-12.16.33:908][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012493s)
+[2019.01.01-12.16.33:942][274]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.01-12.16.33:948][274]LogInit: FAudioDevice initialized.
+[2019.01.01-12.16.33:982][274]LogLoad: Game class is 'GameModeBase'
+[2019.01.01-12.16.33:985][274]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.01-14.16.33
+[2019.01.01-12.16.33:985][274]LogWorld: Bringing up level for play took: 0.002623
+[2019.01.01-12.16.33:998][274]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.903
+[2019.01.01-12.16.33:998][274]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.41:115][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.41:115][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.16.41:179][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.01-12.16.41:179][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.01-12.16.41:213][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.01-12.16.41:252][547]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.01-12.16.41:976][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.01-12.16.44:658][699]LogUObjectArray: Warning: Empty slot
+[2019.01.01-12.16.45:168][699]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.509 s
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: 
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: Stack: 
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa7a1771f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa79eb0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa79ecb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa75ca11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa75cb060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa7452da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa735bec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa7357f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa76b88204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa76dce933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa76be281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa76bb8190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffa76bab073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffaa892d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffaa8920270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffaa892f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffaa891c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffac8971169 USER32.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffac8970c97 USER32.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffaa8930646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ff6b8d854e5 UE4Editor.exe!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ff6b8d95b3c UE4Editor.exe!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ff6b8d95bba UE4Editor.exe!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ff6b8da3dac UE4Editor.exe!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ff6b8da5aaa UE4Editor.exe!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffac8ad8102 KERNEL32.DLL!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: [Callstack] 0x00007ffac96dc574 ntdll.dll!UnknownFunction []
+[2019.01.01-12.16.45:168][699]LogOutputDevice: Error: 
+[2019.01.01-12.16.45:176][699]LogStats:                SubmitErrorReport -  0.001 s
