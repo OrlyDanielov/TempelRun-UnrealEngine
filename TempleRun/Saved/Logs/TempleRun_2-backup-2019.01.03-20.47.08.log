@@ -1,0 +1,1425 @@
+﻿Log file open, 01/03/19 20:27:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TempleRun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.214901
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.114s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.03-18.27.10:403][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-18.27.10:404][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.03-18.27.10:428][  0]LogHAL: Display: Platform has ~ 8 GB [8488329216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.03-18.27.10:428][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.03-18.27.10:428][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.03-18.27.10:431][  0]LogInit: Computer: DESKTOP-GD1OE23
+[2019.01.03-18.27.10:431][  0]LogInit: User: אורלי
+[2019.01.03-18.27.10:431][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.03-18.27.10:431][  0]LogInit: High frequency timer resolution =2.340362 MHz
+[2019.01.03-18.27.10:431][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.03-18.27.10:431][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.03-18.27.10:431][  0]LogMemory: Process Physical Memory: 99.80 MB used, 99.80 MB peak
+[2019.01.03-18.27.10:431][  0]LogMemory: Process Virtual Memory: 84.26 MB used, 84.26 MB peak
+[2019.01.03-18.27.10:431][  0]LogMemory: Physical Memory: 2568.68 MB used,  5526.42 MB free, 8095.10 MB total
+[2019.01.03-18.27.10:431][  0]LogMemory: Virtual Memory: 485.85 MB used,  5526.42 MB free, 134217728.00 MB total
+[2019.01.03-18.27.10:507][  0]LogInit: Using OS detected language (he-IL).
+[2019.01.03-18.27.10:507][  0]LogInit: Using OS detected locale (he-IL).
+[2019.01.03-18.27.10:511][  0]LogTextLocalizationManager: No localization for 'he-IL' exists, so 'en' will be used for the language.
+[2019.01.03-18.27.11:002][  0]LogStreaming: Display: Took  0.495s to InitEngineTextLocalization.
+[2019.01.03-18.27.11:002][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.03-18.27.11:058][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.03-18.27.11:058][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.03-18.27.11:433][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-18.27.11:433][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.03-18.27.11:441][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2019.01.03-18.27.11:441][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2019.01.03-18.27.11:443][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.03-18.27.11:443][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.03-18.27.11:443][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.03-18.27.11:448][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.03-18.27.11:448][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.03-18.27.11:448][  0]LogWindows: EnumDisplayDevices:
+[2019.01.03-18.27.11:448][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:0 D:1)
+[2019.01.03-18.27.11:449][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2019.01.03-18.27.11:449][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2019.01.03-18.27.11:449][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.01.03-18.27.11:449][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2019.01.03-18.27.11:449][  0]LogD3D11RHI:   Driver Version: 20.19.15.4549 (internal:20.19.15.4549, unified:20.19.15.4549)
+[2019.01.03-18.27.11:449][  0]LogD3D11RHI:      Driver Date: 11-10-2016
+[2019.01.03-18.27.11:449][  0]LogRHI: Texture pool is 1506 MB (70% of 2151 MB)
+[2019.01.03-18.27.11:453][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.03-18.27.11:459][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.01.03-18.27.11:461][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Intermediate/Shaders/WorkingDirectory/10028/).
+[2019.01.03-18.27.11:461][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/אורלי/AppData/Local/Temp/UnrealShaderWorkingDir/4E075AE74029A373B0FB4DB80DC7A1AD/'.
+[2019.01.03-18.27.11:882][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.03-18.27.11:898][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.03-18.27.11:914][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.03-18.27.11:931][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.03-18.27.11:949][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.03-18.27.11:966][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.03-18.27.11:982][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.03-18.27.11:999][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.03-18.27.12:007][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:107][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.27.12:109][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.03-18.27.12:177][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-18.27.12:177][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-18.27.12:205][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-18.27.12:206][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-18.27.12:221][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.03-18.27.12:237][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.03-18.27.12:251][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.03-18.27.12:268][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.03-18.27.12:281][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.03-18.27.12:281][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.03-18.27.12:382][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.03-18.27.12:382][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.03-18.27.12:382][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.03-18.27.13:638][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.03-18.27.13:931][  0]LogDerivedDataCache: Loaded boot cache 0.29s 71MB C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.03-18.27.13:931][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.03-18.27.13:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.03-18.27.13:932][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.03-18.27.13:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.03-18.27.13:932][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.03-18.27.13:951][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.03-18.27.13:964][  0]LogDerivedDataCache: Using Local data cache path C:/Users/אורלי/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.03-18.27.13:964][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.03-18.27.13:964][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.03-18.27.13:992][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.03-18.27.13:994][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.03-18.27.13:996][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.03-18.27.14:231][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2019.01.03-18.27.14:946][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-18.27.15:206][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.03-18.27.15:225][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.03-18.27.15:226][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.03-18.27.15:226][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.03-18.27.15:226][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.03-18.27.15:255][  0]LogNetVersion: TempleRun 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2232543940)
+[2019.01.03-18.27.16:055][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.066189 seconds
+[2019.01.03-18.27.16:067][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.03-18.27.16:067][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.03-18.27.16:067][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.03-18.27.19:123][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.03-18.27.19:138][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.03-18.27.19:418][  0]SourceControl: Source control is disabled
+[2019.01.03-18.27.19:418][  0]SourceControl: Source control is disabled
+[2019.01.03-18.27.19:426][  0]SourceControl: Source control is disabled
+[2019.01.03-18.27.19:429][  0]SourceControl: Source control is disabled
+[2019.01.03-18.27.19:760][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.03-18.27.19:873][  0]LogOcInput: OculusInput pre-init called
+[2019.01.03-18.27.19:999][  0]LogEngine: Initializing Engine...
+[2019.01.03-18.27.20:001][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-18.27.20:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.03-18.27.20:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-18.27.20:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-18.27.20:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-18.27.20:369][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.03-18.27.20:406][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.03-18.27.20:420][  0]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.27.20:448][  0]LogInit: FAudioDevice initialized.
+[2019.01.03-18.27.20:448][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.03-18.27.20:750][  0]LogDerivedDataCache: Saved boot cache 0.30s 71MB C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.03-18.27.20:756][  0]LogInit: Texture streaming: Enabled
+[2019.01.03-18.27.20:784][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.03-18.27.20:804][  0]LogInit: Transaction tracking system initialized
+[2019.01.03-18.27.20:857][  0]BlueprintLog: New page: Editor Load
+[2019.01.03-18.27.21:048][  0]LocalizationService: Localization service is disabled
+[2019.01.03-18.27.21:524][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.03-18.27.21:524][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.03-18.27.21:524][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.03-18.27.21:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.03-18.27.21:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-18.27.21:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-18.27.21:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-18.27.21:878][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/' took 0.02s
+[2019.01.03-18.27.21:878][  0]SourceControl: Source control is disabled
+[2019.01.03-18.27.21:883][  0]LightingResults: New page: Lighting Build
+[2019.01.03-18.27.21:892][  0]MapCheck: New page: Map Check
+[2019.01.03-18.27.21:892][  0]LightingResults: New page: Lighting Build
+[2019.01.03-18.27.23:056][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.03-18.27.23:081][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.01.03-18.27.23:160][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.03-18.27.23:241][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.657ms to complete.
+[2019.01.03-18.27.23:241][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.363
+[2019.01.03-18.27.23:314][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-18.27.23:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.27.23:388][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.27.23:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.27.23:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.27.23:426][  0]LogCollectionManager: Loaded 0 collections in 0.001512 seconds
+[2019.01.03-18.27.23:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Collections/' took 0.01s
+[2019.01.03-18.27.23:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/Developers/אורלי/Collections/' took 0.01s
+[2019.01.03-18.27.23:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/Collections/' took 0.01s
+[2019.01.03-18.27.23:478][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.03-18.27.23:495][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2572 classes and 603 folders.
+[2019.01.03-18.27.23:509][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.03-18.27.23:711][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.03-18.27.23:723][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.03-18.27.23:861][  0]LogSlate: Took 0.003555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.03-18.27.23:866][  0]LogSlate: Took 0.002397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.03-18.27.23:879][  0]LogSlate: Took 0.002711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.03-18.27.24:054][  0]LogRenderer: Reallocating scene render targets to support 1404x672 Format 10 NumSamples 1 (Frame:1).
+[2019.01.03-18.27.24:810][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.03-18.27.24:810][  0]LogLoad: (Engine Initialization) Total time: 18.03 seconds
+[2019.01.03-18.27.24:811][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.03-18.27.24:846][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.03-18.27.24:970][  2]LogAssetRegistry: Asset discovery search completed in 10.7624 seconds
+[2019.01.03-18.27.24:974][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.03-18.27.24:974][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2019.01.03-18.28.13:648][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.28.13:757][267]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.28.13:765][267]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.28.14:506][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.28.14:632][282]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.28.14:657][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.03-18.28.14:657][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.28.14:671][282]PIE: New page: PIE session: ThirdPersonExampleMap (3 בינו׳ 2019, 22:28:14)
+[2019.01.03-18.28.14:671][282]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.03-18.28.14:703][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031630s)
+[2019.01.03-18.28.14:704][282]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.03-18.28.14:704][282]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2019.01.03-18.28.14:704][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033297s)
+[2019.01.03-18.28.14:730][282]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.28.14:736][282]LogInit: FAudioDevice initialized.
+[2019.01.03-18.28.14:781][282]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.01.03-18.28.14:782][282]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.01.03-18.28.14:782][282]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.01.03-18.28.14:782][282]LogLoad: Game class is 'GameModeBase'
+[2019.01.03-18.28.14:785][282]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.03-20.28.14
+[2019.01.03-18.28.14:785][282]LogWorld: Bringing up level for play took: 0.002288
+[2019.01.03-18.28.14:804][282]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.01.03-18.28.14:805][282]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap ‎-0.431
+[2019.01.03-18.28.14:805][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.03-18.28.17:603][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.03-18.28.17:604][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.28.17:645][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-18.28.17:645][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.03-18.28.17:669][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.28.17:725][333]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.03-18.28.21:617][386]LogSlate: Took 0.002440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.03-18.28.21:909][386]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.28.21:919][386]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Levels/Level1.Level1
+[2019.01.03-18.28.21:944][386]Cmd: MAP LOAD FILE="../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.03-18.28.21:944][386]LightingResults: New page: Lighting Build
+[2019.01.03-18.28.21:945][386]LoadErrors: New page: Loading map: Level1.umap
+[2019.01.03-18.28.21:946][386]MapCheck: New page: Map Check
+[2019.01.03-18.28.21:946][386]LightingResults: New page: Lighting Build
+[2019.01.03-18.28.22:062][386]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.03-18.28.22:109][386]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.03-18.28.22:186][386]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.468ms to complete.
+[2019.01.03-18.28.22:187][386]LogFileHelpers: Loading map 'Level1' took 0.244
+[2019.01.03-18.28.23:427][405]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.28.23:449][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.28.23:449][405]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 22:28:23)
+[2019.01.03-18.28.23:449][405]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.28.23:453][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003879s)
+[2019.01.03-18.28.23:454][405]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.28.23:454][405]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2019.01.03-18.28.23:454][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004814s)
+[2019.01.03-18.28.23:476][405]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.28.23:481][405]LogInit: FAudioDevice initialized.
+[2019.01.03-18.28.23:511][405]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.28.23:512][405]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.03-20.28.23
+[2019.01.03-18.28.23:513][405]LogWorld: Bringing up level for play took: 0.001631
+[2019.01.03-18.28.23:529][405]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.28.23:535][405]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.28.23:540][405]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.28.23:542][405]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.28.23:547][405]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.28.23:550][405]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.28.23:553][405]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.28.23:554][405]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.28.23:557][405]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.28.23:558][405]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.28.23:558][405]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 0.323
+[2019.01.03-18.28.24:632][412]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.28.25:289][417]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.28.26:035][423]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.28.26:036][423]Cmd: RestartLevel
+[2019.01.03-18.28.26:149][424]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.28.26:275][424]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.28.26:331][424]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.28.26:336][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005319s)
+[2019.01.03-18.28.26:337][424]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.28.26:337][424]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2019.01.03-18.28.26:337][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006473s)
+[2019.01.03-18.28.26:337][424]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.28.26:342][424]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.03-20.28.26
+[2019.01.03-18.28.26:343][424]LogWorld: Bringing up level for play took: 0.004871
+[2019.01.03-18.28.26:352][424]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.28.26:355][424]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.28.26:357][424]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.28.26:359][424]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.28.26:363][424]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.28.26:365][424]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.28.26:370][424]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.28.26:378][424]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.28.26:384][424]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.28.26:388][424]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.28.26:388][424]LogLoad: Took 0.113251 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.28.27:015][431]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.28.27:395][435]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.28.27:631][438]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.28.28:302][448]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.28.28:936][457]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.28.29:622][466]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.28.29:874][469]Cmd: RestartLevel
+[2019.01.03-18.28.29:974][470]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.28.30:073][470]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.28.30:116][470]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.28.30:120][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004064s)
+[2019.01.03-18.28.30:122][470]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.28.30:123][470]LogPlayLevel: PIE: World Init took: (0.003029s)
+[2019.01.03-18.28.30:123][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.007547s)
+[2019.01.03-18.28.30:123][470]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.28.30:127][470]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.03-20.28.30
+[2019.01.03-18.28.30:127][470]LogWorld: Bringing up level for play took: 0.003483
+[2019.01.03-18.28.30:136][470]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.28.30:138][470]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.28.30:141][470]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.28.30:152][470]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.28.30:157][470]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.28.30:165][470]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.28.30:170][470]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.28.30:178][470]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.28.30:187][470]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.28.30:191][470]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.28.30:191][470]LogLoad: Took 0.117822 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.28.31:158][484]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.28.31:866][494]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.28.32:528][503]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.28.32:602][504]Cmd: RestartLevel
+[2019.01.03-18.28.32:678][505]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.28.32:764][505]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.28.32:811][505]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.28.32:815][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003562s)
+[2019.01.03-18.28.32:816][505]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.28.32:817][505]LogPlayLevel: PIE: World Init took: (0.002157s)
+[2019.01.03-18.28.32:818][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006583s)
+[2019.01.03-18.28.32:818][505]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.28.32:821][505]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.03-20.28.32
+[2019.01.03-18.28.32:821][505]LogWorld: Bringing up level for play took: 0.001879
+[2019.01.03-18.28.32:828][505]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.28.32:839][505]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.28.32:843][505]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.28.32:846][505]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.28.32:848][505]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.28.32:852][505]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.28.32:857][505]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.28.32:860][505]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.28.32:861][505]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.28.32:863][505]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.28.32:863][505]LogLoad: Took 0.099040 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.28.33:890][516]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.28.34:576][522]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.28.35:214][528]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.28.35:324][529]Cmd: RestartLevel
+[2019.01.03-18.28.35:425][530]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.28.35:534][530]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.28.35:603][530]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.28.35:608][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005619s)
+[2019.01.03-18.28.35:609][530]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.28.35:609][530]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2019.01.03-18.28.35:609][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006816s)
+[2019.01.03-18.28.35:609][530]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.28.35:611][530]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.01.03-20.28.35
+[2019.01.03-18.28.35:613][530]LogWorld: Bringing up level for play took: 0.002280
+[2019.01.03-18.28.35:621][530]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.28.35:624][530]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.28.35:631][530]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.28.35:638][530]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.28.35:644][530]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.28.35:645][530]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.28.35:648][530]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.28.35:651][530]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.28.35:652][530]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.28.35:656][530]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.28.35:656][530]LogLoad: Took 0.121864 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.28.36:212][538]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.28.38:123][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.28.38:300][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-18.28.38:336][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.28.38:483][556]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.03-18.28.44:037][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.28.46:779][671]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode
+[2019.01.03-18.28.47:361][671]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.01.03-18.28.48:298][671]LogSlate: Took 0.002433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.03-18.28.48:384][672]LogSlate: Took 0.001810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.03-18.29.12:006][758]LogRenderer: Reallocating scene render targets to support 1404x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.03-18.29.22:871][874]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode
+[2019.01.03-18.30.23:037][224]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.01.03-18.30.23:043][224]LogClass: Warning: Type mismatch in FloorTiles of SKEL_RunGameMode_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.01.03-18.30.32:970][807]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.03-18.30.32:973][807]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.03-18.31.27:012][  1]BlueprintLog: New page: Compile RunGameMode
+[2019.01.03-18.31.27:040][  1]LogBlueprint: Warning: [Compiler RunGameMode] Can't parse default value '/Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile_C' for  Floor Tiles . Property: FloorTiles.
+[2019.01.03-18.31.27:219][  1]LogBlueprint: Warning: [Compiler RunGameMode] [0260.44] Compile of RunGameMode successful, but with 1 Warning(s) [in 207 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2019.01.03-18.31.39:781][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.03-18.31.40:727][788]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.03-18.31.43:816][971]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.03-18.31.45:938][ 94]BlueprintLog: New page: Compile RunGameMode
+[2019.01.03-18.31.47:636][179]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeD154F9A94B89C355237373A0D27197D2.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.31.47:636][179]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.31.48:137][179]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.31.48:137][179]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.01:184][179]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.32.01:194][179]EditorErrors: New page: Save Output
+[2019.01.03-18.32.01:194][179]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.05:410][179]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.32.05:457][179]LogSlate: Took 0.015717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.03-18.32.05:477][179]LogSlate: Took 0.018192 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.01.03-18.32.08:093][336]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.32.08:097][336]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.32.09:864][439]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeA79DCA24420DED62CA5FC68B882F6777.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.09:865][439]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.32.10:366][439]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.32.10:366][439]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.11:713][439]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.32.11:748][439]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeCD98ECF44ED4D8B7410C0CA0662BD261.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.11:748][439]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.32.12:248][439]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.32.12:248][439]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.13:845][439]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.32.13:854][439]EditorErrors: New page: Save Output
+[2019.01.03-18.32.13:854][439]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.13:854][439]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.32.15:000][439]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.32.17:448][584]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.32.17:455][584]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.33.18:547][408]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode8C00BEDC4BBE2A3893197EBCC93AAEE1.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.18:548][408]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.33.19:048][408]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.33.19:048][408]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.21:055][408]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.33.21:098][408]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeE20C13D6415D09178853B29D4C4D6921.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.21:100][408]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.33.21:601][408]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.33.21:601][408]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.27:379][408]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.33.27:421][408]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode72F7D12E4CAE064671E2BB9B3EB988B6.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.27:422][408]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.33.27:923][408]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.33.27:923][408]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.40:855][408]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.33.40:904][408]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode23EB04D943A4152FB5B616A74F9E7370.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.40:904][408]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.33.41:405][408]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.33.41:405][408]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.44:165][408]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.33.44:174][408]EditorErrors: New page: Save Output
+[2019.01.03-18.33.44:174][408]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.44:174][408]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.44:174][408]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.44:174][408]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.33.46:281][408]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.34.26:322][932]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.34.26:405][932]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.34.32:184][988]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Level13430CB9E435D6303883A3DBC4E751AF0.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.34.32:184][988]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap', retrying in .5s...
+[2019.01.03-18.34.32:685][988]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'.
+[2019.01.03-18.34.32:685][988]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.34.32:689][988]EditorErrors: New page: Save Output
+[2019.01.03-18.34.32:689][988]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.34.36:946][ 44]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.34.37:029][ 44]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.34.40:819][196]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode0617EA1F4215317715A068BA57F75786.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.40:820][196]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.34.41:320][196]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.34.41:320][196]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.43:217][196]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.34.43:264][196]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode3383328141F818118B1DC5BA1110500B.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.43:265][196]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.34.43:766][196]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.34.43:766][196]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.46:481][196]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.34.46:531][196]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode7912A7A541FD893873661AA7A94576CF.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.46:532][196]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.34.47:033][196]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.34.47:033][196]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.47:981][196]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.34.47:987][196]EditorErrors: New page: Save Output
+[2019.01.03-18.34.47:987][196]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.47:987][196]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.47:987][196]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.49:323][196]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.34.52:153][335]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.34.52:161][335]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.34.58:909][711]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeECE4DD654C1A59EFAF224EB30ED596BA.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.34.58:910][711]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.34.59:411][711]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.34.59:411][711]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.35.00:930][711]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.35.00:933][711]EditorErrors: New page: Save Output
+[2019.01.03-18.35.00:933][711]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.35.02:103][711]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.35.03:057][757]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.35.03:063][757]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.35.55:023][581]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.03-18.36.01:442][954]BlueprintLog: New page: Compile RunGameMode
+[2019.01.03-18.36.03:454][  5]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.36.03:525][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.36.03:526][  5]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 22:36:03)
+[2019.01.03-18.36.03:526][  5]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.36.03:533][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006446s)
+[2019.01.03-18.36.03:534][  5]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.36.03:535][  5]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2019.01.03-18.36.03:535][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.008945s)
+[2019.01.03-18.36.03:626][  5]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.36.03:632][  5]LogInit: FAudioDevice initialized.
+[2019.01.03-18.36.03:668][  5]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.36.03:671][  5]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.36.03
+[2019.01.03-18.36.03:672][  5]LogWorld: Bringing up level for play took: 0.003217
+[2019.01.03-18.36.03:693][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_0] Hello
+[2019.01.03-18.36.03:696][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_1] Hello
+[2019.01.03-18.36.03:697][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_2] Hello
+[2019.01.03-18.36.03:698][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_3] Hello
+[2019.01.03-18.36.03:702][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_4] Hello
+[2019.01.03-18.36.03:709][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_5] Hello
+[2019.01.03-18.36.03:712][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_6] Hello
+[2019.01.03-18.36.03:713][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_7] Hello
+[2019.01.03-18.36.03:717][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_8] Hello
+[2019.01.03-18.36.03:718][  5]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_9] Hello
+[2019.01.03-18.36.03:718][  5]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 0.482
+[2019.01.03-18.36.04:764][ 13]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_10] Hello
+[2019.01.03-18.36.05:166][ 16]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_11] Hello
+[2019.01.03-18.36.05:734][ 21]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_12] Hello
+[2019.01.03-18.36.06:133][ 26]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_13] Hello
+[2019.01.03-18.36.06:762][ 35]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_14] Hello
+[2019.01.03-18.36.07:748][ 47]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_15] Hello
+[2019.01.03-18.36.08:696][ 55]Cmd: RestartLevel
+[2019.01.03-18.36.08:804][ 56]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.36.08:927][ 56]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.36.09:041][ 56]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.36.09:046][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004868s)
+[2019.01.03-18.36.09:047][ 56]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.36.09:047][ 56]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2019.01.03-18.36.09:047][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006519s)
+[2019.01.03-18.36.09:047][ 56]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.36.09:051][ 56]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.36.09
+[2019.01.03-18.36.09:052][ 56]LogWorld: Bringing up level for play took: 0.004089
+[2019.01.03-18.36.09:067][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_0] Hello
+[2019.01.03-18.36.09:070][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_1] Hello
+[2019.01.03-18.36.09:073][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_2] Hello
+[2019.01.03-18.36.09:074][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_3] Hello
+[2019.01.03-18.36.09:082][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_4] Hello
+[2019.01.03-18.36.09:085][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_5] Hello
+[2019.01.03-18.36.09:089][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_6] Hello
+[2019.01.03-18.36.09:090][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_7] Hello
+[2019.01.03-18.36.09:091][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_8] Hello
+[2019.01.03-18.36.09:100][ 56]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_9] Hello
+[2019.01.03-18.36.09:100][ 56]LogLoad: Took 0.173283 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.36.09:944][ 64]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_10] Hello
+[2019.01.03-18.36.10:336][ 67]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_11] Hello
+[2019.01.03-18.36.10:974][ 72]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_12] Hello
+[2019.01.03-18.36.11:319][ 75]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_13] Hello
+[2019.01.03-18.36.11:984][ 81]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_14] Hello
+[2019.01.03-18.36.12:382][ 85]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_15] Hello
+[2019.01.03-18.36.12:963][ 91]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_16] Hello
+[2019.01.03-18.36.14:002][ 99]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_17] Hello
+[2019.01.03-18.36.14:893][105]Cmd: RestartLevel
+[2019.01.03-18.36.14:912][106]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.36.15:014][106]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.36.15:135][106]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.36.15:141][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006167s)
+[2019.01.03-18.36.15:142][106]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.36.15:143][106]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2019.01.03-18.36.15:143][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.008112s)
+[2019.01.03-18.36.15:143][106]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.36.15:145][106]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.36.15
+[2019.01.03-18.36.15:145][106]LogWorld: Bringing up level for play took: 0.001910
+[2019.01.03-18.36.15:155][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_0] Hello
+[2019.01.03-18.36.15:159][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_1] Hello
+[2019.01.03-18.36.15:160][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_2] Hello
+[2019.01.03-18.36.15:162][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_3] Hello
+[2019.01.03-18.36.15:163][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_4] Hello
+[2019.01.03-18.36.15:164][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_5] Hello
+[2019.01.03-18.36.15:171][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_6] Hello
+[2019.01.03-18.36.15:175][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_7] Hello
+[2019.01.03-18.36.15:179][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_8] Hello
+[2019.01.03-18.36.15:180][106]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_9] Hello
+[2019.01.03-18.36.15:181][106]LogLoad: Took 0.166820 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.36.16:063][117]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_10] Hello
+[2019.01.03-18.36.16:505][121]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_11] Hello
+[2019.01.03-18.36.17:499][132]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_12] Hello
+[2019.01.03-18.36.18:077][141]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_13] Hello
+[2019.01.03-18.36.18:479][147]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_14] Hello
+[2019.01.03-18.36.19:561][162]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_15] Hello
+[2019.01.03-18.36.20:549][174]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_16] Hello
+[2019.01.03-18.36.20:599][175]Cmd: RestartLevel
+[2019.01.03-18.36.20:670][176]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.36.20:747][176]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.36.20:868][176]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.36.20:872][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004222s)
+[2019.01.03-18.36.20:874][176]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.36.20:874][176]LogPlayLevel: PIE: World Init took: (0.002127s)
+[2019.01.03-18.36.20:874][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006713s)
+[2019.01.03-18.36.20:874][176]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.36.20:877][176]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.36.20
+[2019.01.03-18.36.20:878][176]LogWorld: Bringing up level for play took: 0.001814
+[2019.01.03-18.36.20:885][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_0] Hello
+[2019.01.03-18.36.20:887][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_1] Hello
+[2019.01.03-18.36.20:889][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_2] Hello
+[2019.01.03-18.36.20:896][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_3] Hello
+[2019.01.03-18.36.20:897][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_4] Hello
+[2019.01.03-18.36.20:898][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_5] Hello
+[2019.01.03-18.36.20:900][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_6] Hello
+[2019.01.03-18.36.20:901][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_7] Hello
+[2019.01.03-18.36.20:907][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_8] Hello
+[2019.01.03-18.36.20:912][176]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_9] Hello
+[2019.01.03-18.36.20:913][176]LogLoad: Took 0.165818 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.36.21:877][186]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_10] Hello
+[2019.01.03-18.36.22:219][190]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_11] Hello
+[2019.01.03-18.36.22:921][200]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_12] Hello
+[2019.01.03-18.36.23:199][204]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_13] Hello
+[2019.01.03-18.36.23:908][212]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_14] Hello
+[2019.01.03-18.36.24:326][216]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_15] Hello
+[2019.01.03-18.36.25:145][224]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_16] Hello
+[2019.01.03-18.36.25:302][226]LogBlueprintUserMessages: [BP_FloorTile_RampDown_C_17] Hello
+[2019.01.03-18.36.26:957][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.36.27:114][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-18.36.27:186][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.36.27:246][252]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.03-18.36.28:880][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.36.30:623][364]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.03-18.36.34:994][620]BlueprintLog: New page: Compile RunGameMode
+[2019.01.03-18.36.39:021][684]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode25A675B448CA8546E34D6EB037B9E1B1.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.36.39:023][684]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.36.39:523][684]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.36.39:523][684]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.43.33:538][684]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.43.33:543][684]EditorErrors: New page: Save Output
+[2019.01.03-18.43.33:543][684]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.43.34:725][684]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.43.36:157][706]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.43.36:236][706]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.43.49:372][177]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode4F46819D4969397765E42BB205B884E9.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.43.49:372][177]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.43.49:873][177]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.43.49:873][177]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.43.51:391][177]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.43.51:395][177]EditorErrors: New page: Save Output
+[2019.01.03-18.43.51:395][177]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.43.52:534][177]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.43.53:283][222]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.43.53:288][222]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.43.57:963][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.43.58:034][341]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.43.58:080][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.43.58:081][341]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 22:43:58)
+[2019.01.03-18.43.58:081][341]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.43.58:086][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004878s)
+[2019.01.03-18.43.58:087][341]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.43.58:087][341]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2019.01.03-18.43.58:087][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006471s)
+[2019.01.03-18.43.58:162][341]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.43.58:176][341]LogInit: FAudioDevice initialized.
+[2019.01.03-18.43.58:209][341]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.43.58:211][341]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.43.58
+[2019.01.03-18.43.58:212][341]LogWorld: Bringing up level for play took: 0.002330
+[2019.01.03-18.43.58:229][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_0] Hello
+[2019.01.03-18.43.58:231][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_1] Hello
+[2019.01.03-18.43.58:232][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_2] Hello
+[2019.01.03-18.43.58:235][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_3] Hello
+[2019.01.03-18.43.58:239][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_4] Hello
+[2019.01.03-18.43.58:242][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_5] Hello
+[2019.01.03-18.43.58:245][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_6] Hello
+[2019.01.03-18.43.58:247][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_7] Hello
+[2019.01.03-18.43.58:250][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_8] Hello
+[2019.01.03-18.43.58:253][341]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_9] Hello
+[2019.01.03-18.43.58:253][341]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 1.018
+[2019.01.03-18.43.59:299][350]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_10] Hello
+[2019.01.03-18.43.59:654][354]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_11] Hello
+[2019.01.03-18.44.00:259][362]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_12] Hello
+[2019.01.03-18.44.00:655][367]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_13] Hello
+[2019.01.03-18.44.01:712][378]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_14] Hello
+[2019.01.03-18.44.02:712][388]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_15] Hello
+[2019.01.03-18.44.02:813][389]Cmd: RestartLevel
+[2019.01.03-18.44.02:916][390]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.44.03:022][390]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.44.03:091][390]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.44.03:095][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003507s)
+[2019.01.03-18.44.03:096][390]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.44.03:096][390]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2019.01.03-18.44.03:096][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004636s)
+[2019.01.03-18.44.03:096][390]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.44.03:101][390]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.44.03
+[2019.01.03-18.44.03:102][390]LogWorld: Bringing up level for play took: 0.005017
+[2019.01.03-18.44.03:114][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_0] Hello
+[2019.01.03-18.44.03:117][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_1] Hello
+[2019.01.03-18.44.03:120][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_2] Hello
+[2019.01.03-18.44.03:127][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_3] Hello
+[2019.01.03-18.44.03:130][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_4] Hello
+[2019.01.03-18.44.03:131][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_5] Hello
+[2019.01.03-18.44.03:138][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_6] Hello
+[2019.01.03-18.44.03:141][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_7] Hello
+[2019.01.03-18.44.03:144][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_8] Hello
+[2019.01.03-18.44.03:147][390]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_9] Hello
+[2019.01.03-18.44.03:148][390]LogLoad: Took 0.125445 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.44.04:070][399]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_10] Hello
+[2019.01.03-18.44.04:432][403]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_11] Hello
+[2019.01.03-18.44.05:488][416]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_12] Hello
+[2019.01.03-18.44.06:451][429]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_13] Hello
+[2019.01.03-18.44.06:530][430]Cmd: RestartLevel
+[2019.01.03-18.44.06:604][431]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.44.06:678][431]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.44.06:766][431]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.44.06:770][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003564s)
+[2019.01.03-18.44.06:771][431]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.44.06:771][431]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.01.03-18.44.06:771][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004813s)
+[2019.01.03-18.44.06:771][431]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.44.06:773][431]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.44.06
+[2019.01.03-18.44.06:773][431]LogWorld: Bringing up level for play took: 0.001810
+[2019.01.03-18.44.06:779][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_0] Hello
+[2019.01.03-18.44.06:782][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_1] Hello
+[2019.01.03-18.44.06:786][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_2] Hello
+[2019.01.03-18.44.06:789][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_3] Hello
+[2019.01.03-18.44.06:793][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_4] Hello
+[2019.01.03-18.44.06:796][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_5] Hello
+[2019.01.03-18.44.06:799][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_6] Hello
+[2019.01.03-18.44.06:803][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_7] Hello
+[2019.01.03-18.44.06:804][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_8] Hello
+[2019.01.03-18.44.06:806][431]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_9] Hello
+[2019.01.03-18.44.06:806][431]LogLoad: Took 0.128536 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.44.07:791][439]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_10] Hello
+[2019.01.03-18.44.08:251][442]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_11] Hello
+[2019.01.03-18.44.08:784][446]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_12] Hello
+[2019.01.03-18.44.09:197][449]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_13] Hello
+[2019.01.03-18.44.09:729][453]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_14] Hello
+[2019.01.03-18.44.10:182][456]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_15] Hello
+[2019.01.03-18.44.10:738][460]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_16] Hello
+[2019.01.03-18.44.11:139][463]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_17] Hello
+[2019.01.03-18.44.11:847][468]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_18] Hello
+[2019.01.03-18.44.12:147][469]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_19] Hello
+[2019.01.03-18.44.13:021][477]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_20] Hello
+[2019.01.03-18.44.13:151][478]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_21] Hello
+[2019.01.03-18.44.14:127][487]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_22] Hello
+[2019.01.03-18.44.14:248][488]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_23] Hello
+[2019.01.03-18.44.15:088][495]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_24] Hello
+[2019.01.03-18.44.15:181][496]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_25] Hello
+[2019.01.03-18.44.16:177][509]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_26] Hello
+[2019.01.03-18.44.16:470][513]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_27] Hello
+[2019.01.03-18.44.17:258][522]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_28] Hello
+[2019.01.03-18.44.17:487][524]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_29] Hello
+[2019.01.03-18.44.18:389][531]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_30] Hello
+[2019.01.03-18.44.18:480][532]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_31] Hello
+[2019.01.03-18.44.19:354][540]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_32] Hello
+[2019.01.03-18.44.19:459][541]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_33] Hello
+[2019.01.03-18.44.20:369][553]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_34] Hello
+[2019.01.03-18.44.20:508][555]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_35] Hello
+[2019.01.03-18.44.21:475][568]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_36] Hello
+[2019.01.03-18.44.21:478][568]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_37] Hello
+[2019.01.03-18.44.22:516][580]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_38] Hello
+[2019.01.03-18.44.22:635][581]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_39] Hello
+[2019.01.03-18.44.23:442][587]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_40] Hello
+[2019.01.03-18.44.23:565][588]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_41] Hello
+[2019.01.03-18.44.24:477][594]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_42] Hello
+[2019.01.03-18.44.24:608][595]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_43] Hello
+[2019.01.03-18.44.25:437][601]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_44] Hello
+[2019.01.03-18.44.25:714][603]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_45] Hello
+[2019.01.03-18.44.26:474][609]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_46] Hello
+[2019.01.03-18.44.26:727][611]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_47] Hello
+[2019.01.03-18.44.27:512][618]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_48] Hello
+[2019.01.03-18.44.27:622][619]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_49] Hello
+[2019.01.03-18.44.28:469][629]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_50] Hello
+[2019.01.03-18.44.28:620][631]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_51] Hello
+[2019.01.03-18.44.29:455][641]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_52] Hello
+[2019.01.03-18.44.29:677][643]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_53] Hello
+[2019.01.03-18.44.30:471][650]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_54] Hello
+[2019.01.03-18.44.30:711][652]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_55] Hello
+[2019.01.03-18.44.31:485][660]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_56] Hello
+[2019.01.03-18.44.31:705][662]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_57] Hello
+[2019.01.03-18.44.32:485][668]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_58] Hello
+[2019.01.03-18.44.32:772][670]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_59] Hello
+[2019.01.03-18.44.33:474][675]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_60] Hello
+[2019.01.03-18.44.33:737][677]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_61] Hello
+[2019.01.03-18.44.34:523][683]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_62] Hello
+[2019.01.03-18.44.34:876][686]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_63] Hello
+[2019.01.03-18.44.35:468][692]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_64] Hello
+[2019.01.03-18.44.35:908][696]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_65] Hello
+[2019.01.03-18.44.36:598][701]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_66] Hello
+[2019.01.03-18.44.36:891][703]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_67] Hello
+[2019.01.03-18.44.37:501][707]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_68] Hello
+[2019.01.03-18.44.37:882][710]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_69] Hello
+[2019.01.03-18.44.38:539][715]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_70] Hello
+[2019.01.03-18.44.38:977][719]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_71] Hello
+[2019.01.03-18.44.39:495][725]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_72] Hello
+[2019.01.03-18.44.40:033][732]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_73] Hello
+[2019.01.03-18.44.40:534][738]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_74] Hello
+[2019.01.03-18.44.41:059][743]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_75] Hello
+[2019.01.03-18.44.41:572][747]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_76] Hello
+[2019.01.03-18.44.41:977][750]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_77] Hello
+[2019.01.03-18.44.42:498][754]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_78] Hello
+[2019.01.03-18.44.43:033][758]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_79] Hello
+[2019.01.03-18.44.43:577][763]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_80] Hello
+[2019.01.03-18.44.44:006][768]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_81] Hello
+[2019.01.03-18.44.44:555][776]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_82] Hello
+[2019.01.03-18.44.45:036][783]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_83] Hello
+[2019.01.03-18.44.45:535][791]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_84] Hello
+[2019.01.03-18.44.46:074][799]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_85] Hello
+[2019.01.03-18.44.46:530][806]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_86] Hello
+[2019.01.03-18.44.47:125][815]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_87] Hello
+[2019.01.03-18.44.47:529][821]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_88] Hello
+[2019.01.03-18.44.48:142][830]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_89] Hello
+[2019.01.03-18.44.48:501][835]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_90] Hello
+[2019.01.03-18.44.49:240][845]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_91] Hello
+[2019.01.03-18.44.49:557][849]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_92] Hello
+[2019.01.03-18.44.50:275][857]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_93] Hello
+[2019.01.03-18.44.50:584][860]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_94] Hello
+[2019.01.03-18.44.51:305][867]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_95] Hello
+[2019.01.03-18.44.51:573][870]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_96] Hello
+[2019.01.03-18.44.52:298][880]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_97] Hello
+[2019.01.03-18.44.52:529][883]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_98] Hello
+[2019.01.03-18.44.53:321][892]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_99] Hello
+[2019.01.03-18.44.53:548][894]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_100] Hello
+[2019.01.03-18.44.54:232][900]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_101] Hello
+[2019.01.03-18.44.54:546][903]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_102] Hello
+[2019.01.03-18.44.55:324][911]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_103] Hello
+[2019.01.03-18.44.55:551][913]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_104] Hello
+[2019.01.03-18.44.56:285][920]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_105] Hello
+[2019.01.03-18.44.56:546][923]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_106] Hello
+[2019.01.03-18.44.57:280][933]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_107] Hello
+[2019.01.03-18.44.57:560][937]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_108] Hello
+[2019.01.03-18.44.58:386][949]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_109] Hello
+[2019.01.03-18.44.58:533][951]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_110] Hello
+[2019.01.03-18.44.59:346][962]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_111] Hello
+[2019.01.03-18.44.59:510][964]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_112] Hello
+[2019.01.03-18.45.00:407][974]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_113] Hello
+[2019.01.03-18.45.00:521][975]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_114] Hello
+[2019.01.03-18.45.01:449][983]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_115] Hello
+[2019.01.03-18.45.01:600][984]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_116] Hello
+[2019.01.03-18.45.02:402][991]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_117] Hello
+[2019.01.03-18.45.02:531][992]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_118] Hello
+[2019.01.03-18.45.03:460][  4]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_119] Hello
+[2019.01.03-18.45.03:550][  5]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_120] Hello
+[2019.01.03-18.45.04:556][ 16]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_121] Hello
+[2019.01.03-18.45.04:654][ 17]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_122] Hello
+[2019.01.03-18.45.05:506][ 25]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_123] Hello
+[2019.01.03-18.45.05:606][ 26]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_124] Hello
+[2019.01.03-18.45.06:518][ 38]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_125] Hello
+[2019.01.03-18.45.06:604][ 39]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_126] Hello
+[2019.01.03-18.45.07:567][ 52]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_127] Hello
+[2019.01.03-18.45.07:574][ 52]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_128] Hello
+[2019.01.03-18.45.08:584][ 63]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_129] Hello
+[2019.01.03-18.45.08:587][ 63]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_130] Hello
+[2019.01.03-18.45.09:564][ 71]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_131] Hello
+[2019.01.03-18.45.09:678][ 72]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_132] Hello
+[2019.01.03-18.45.10:530][ 79]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_133] Hello
+[2019.01.03-18.45.10:655][ 80]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_134] Hello
+[2019.01.03-18.45.11:622][ 87]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_135] Hello
+[2019.01.03-18.45.11:757][ 88]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_136] Hello
+[2019.01.03-18.45.12:534][ 94]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_137] Hello
+[2019.01.03-18.45.12:742][ 96]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_138] Hello
+[2019.01.03-18.45.13:507][104]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_139] Hello
+[2019.01.03-18.45.13:819][107]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_140] Hello
+[2019.01.03-18.45.14:610][113]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_141] Hello
+[2019.01.03-18.45.14:910][115]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_142] Hello
+[2019.01.03-18.45.15:506][119]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_143] Hello
+[2019.01.03-18.45.15:876][122]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_144] Hello
+[2019.01.03-18.45.16:569][128]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_145] Hello
+[2019.01.03-18.45.16:868][131]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_146] Hello
+[2019.01.03-18.45.17:523][140]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_147] Hello
+[2019.01.03-18.45.17:802][144]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_148] Hello
+[2019.01.03-18.45.18:551][155]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_149] Hello
+[2019.01.03-18.45.18:833][159]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_150] Hello
+[2019.01.03-18.45.19:536][168]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_151] Hello
+[2019.01.03-18.45.19:854][173]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_152] Hello
+[2019.01.03-18.45.20:511][182]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_153] Hello
+[2019.01.03-18.45.20:824][186]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_154] Hello
+[2019.01.03-18.45.21:543][194]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_155] Hello
+[2019.01.03-18.45.21:861][197]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_156] Hello
+[2019.01.03-18.45.22:597][203]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_157] Hello
+[2019.01.03-18.45.22:835][205]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_158] Hello
+[2019.01.03-18.45.23:536][211]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_159] Hello
+[2019.01.03-18.45.24:123][217]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_160] Hello
+[2019.01.03-18.45.24:539][222]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_161] Hello
+[2019.01.03-18.45.25:140][230]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_162] Hello
+[2019.01.03-18.45.25:562][236]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_163] Hello
+[2019.01.03-18.45.26:129][245]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_164] Hello
+[2019.01.03-18.45.26:549][251]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_165] Hello
+[2019.01.03-18.45.27:088][259]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_166] Hello
+[2019.01.03-18.45.27:537][265]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_167] Hello
+[2019.01.03-18.45.28:188][273]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_168] Hello
+[2019.01.03-18.45.28:540][277]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_169] Hello
+[2019.01.03-18.45.29:157][283]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_170] Hello
+[2019.01.03-18.45.29:543][286]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_171] Hello
+[2019.01.03-18.45.30:173][291]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_172] Hello
+[2019.01.03-18.45.30:548][294]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_173] Hello
+[2019.01.03-18.45.31:208][300]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_174] Hello
+[2019.01.03-18.45.31:585][304]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_175] Hello
+[2019.01.03-18.45.32:344][313]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_176] Hello
+[2019.01.03-18.45.32:560][315]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_177] Hello
+[2019.01.03-18.45.33:352][322]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_178] Hello
+[2019.01.03-18.45.33:551][324]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_179] Hello
+[2019.01.03-18.45.34:423][334]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_180] Hello
+[2019.01.03-18.45.34:531][335]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_181] Hello
+[2019.01.03-18.45.35:464][345]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_182] Hello
+[2019.01.03-18.45.35:563][346]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_183] Hello
+[2019.01.03-18.45.36:404][358]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_184] Hello
+[2019.01.03-18.45.36:549][360]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_185] Hello
+[2019.01.03-18.45.37:449][373]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_186] Hello
+[2019.01.03-18.45.37:527][374]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_187] Hello
+[2019.01.03-18.45.38:391][386]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_188] Hello
+[2019.01.03-18.45.38:541][388]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_189] Hello
+[2019.01.03-18.45.39:520][400]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_190] Hello
+[2019.01.03-18.45.39:531][400]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_191] Hello
+[2019.01.03-18.45.40:617][411]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_192] Hello
+[2019.01.03-18.45.41:837][419]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_193] Hello
+[2019.01.03-18.45.42:587][430]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_194] Hello
+[2019.01.03-18.45.43:581][445]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_195] Hello
+[2019.01.03-18.45.44:537][462]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_196] Hello
+[2019.01.03-18.45.45:538][480]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_197] Hello
+[2019.01.03-18.45.46:564][499]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_198] Hello
+[2019.01.03-18.45.47:549][517]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_199] Hello
+[2019.01.03-18.45.48:536][535]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_200] Hello
+[2019.01.03-18.45.49:525][553]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_201] Hello
+[2019.01.03-18.45.50:565][572]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_202] Hello
+[2019.01.03-18.45.51:538][590]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_203] Hello
+[2019.01.03-18.45.52:558][609]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_204] Hello
+[2019.01.03-18.45.53:548][627]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_205] Hello
+[2019.01.03-18.45.54:551][645]LogBlueprintUserMessages: [BP_FloorTile_RampUp_C_206] Hello
+[2019.01.03-18.45.55:304][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.45.55:456][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-18.45.55:494][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.45.55:569][659]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.03-18.46.05:387][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.46.07:502][921]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.03-18.46.17:750][528]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeE9825C3749FE914270EFA8B9C7995946.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.17:751][528]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.46.18:252][528]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.46.18:252][528]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.19:962][528]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.46.19:972][528]EditorErrors: New page: Save Output
+[2019.01.03-18.46.19:973][528]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.20:964][528]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.46.21:799][577]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.21:809][577]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.23:424][674]BlueprintLog: New page: Compile RunGameMode
+[2019.01.03-18.46.24:401][718]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeAE3E0EC948FB2A1D2826F8A808A9A424.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.24:402][718]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.46.24:902][718]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.46.24:902][718]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.28:144][718]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.46.28:152][718]EditorErrors: New page: Save Output
+[2019.01.03-18.46.28:152][718]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.29:440][718]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.46.30:375][770]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.30:380][770]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.33:696][869]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Level1672F8AB8435C2EC4120B14A29FF47CD3.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.46.33:696][869]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap', retrying in .5s...
+[2019.01.03-18.46.34:197][869]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'.
+[2019.01.03-18.46.34:197][869]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.46.34:203][869]EditorErrors: New page: Save Output
+[2019.01.03-18.46.34:203][869]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.46.36:665][904]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.36:743][904]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.39:246][940]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Level1D45E78C14706EE0F4927CB953AAD2075.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.46.39:247][940]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap', retrying in .5s...
+[2019.01.03-18.46.39:748][940]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'.
+[2019.01.03-18.46.39:748][940]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.46.39:756][940]EditorErrors: New page: Save Output
+[2019.01.03-18.46.39:757][940]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-18.46.46:815][ 43]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.46:884][ 43]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.51:762][ 86]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameModeD5B4E07F45A99C5B2A48AF886A36CC1B.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.51:763][ 86]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.46.52:263][ 86]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.46.52:263][ 86]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.53:616][ 86]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.46.53:620][ 86]EditorErrors: New page: Save Output
+[2019.01.03-18.46.53:620][ 86]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.46.54:706][ 86]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.46.56:280][113]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.46.56:352][113]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.47.02:307][140]LogSlate: Window 'Save Content' being destroyed
+[2019.01.03-18.47.02:360][140]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunGameMode845BD03F44C46716EB221EA958CAFE16.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.47.02:361][140]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset', retrying in .5s...
+[2019.01.03-18.47.02:861][140]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'.
+[2019.01.03-18.47.02:861][140]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.47.03:841][140]LogSlate: Window 'Message' being destroyed
+[2019.01.03-18.47.03:846][140]EditorErrors: New page: Save Output
+[2019.01.03-18.47.03:846][140]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.01.03-18.47.04:634][140]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-18.47.04:784][140]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.47.04:786][140]LogSlate: Window 'TempleRun - Unreal Editor' being destroyed
+[2019.01.03-18.47.05:012][141]Cmd: QUIT_EDITOR
+[2019.01.03-18.47.05:270][141]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-18.47.05:280][141]LogExit: Preparing to exit.
+[2019.01.03-18.47.05:789][141]LogExit: Editor shut down
+[2019.01.03-18.47.05:789][141]LogExit: Transaction tracking system shut down
+[2019.01.03-18.47.06:179][141]LogExit: Object subsystem successfully closed.
+[2019.01.03-18.47.06:194][141]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.03-18.47.06:198][141]LogD3D11RHI: Shutdown
+[2019.01.03-18.47.06:198][141]LogD3D11RHI: CleanupD3DDevice
+[2019.01.03-18.47.06:220][141]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.03-18.47.06:237][141]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2019.01.03-18.47.06:237][141]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.01.03-18.47.06:237][141]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.01.03-18.47.06:237][141]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.01.03-18.47.06:237][141]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.01.03-18.47.06:237][141]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.01.03-18.47.06:238][141]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.01.03-18.47.06:238][141]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.01.03-18.47.06:238][141]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.01.03-18.47.06:238][141]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.01.03-18.47.06:238][141]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.01.03-18.47.06:238][141]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.01.03-18.47.06:239][141]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.01.03-18.47.06:240][141]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.01.03-18.47.06:240][141]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.01.03-18.47.06:240][141]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.01.03-18.47.06:240][141]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.01.03-18.47.06:240][141]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.01.03-18.47.06:240][141]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.01.03-18.47.06:512][141]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.01.03-18.47.06:574][141]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.01.03-18.47.06:574][141]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.01.03-18.47.06:574][141]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.01.03-18.47.06:574][141]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.01.03-18.47.06:574][141]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.01.03-18.47.06:574][141]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.01.03-18.47.06:575][141]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.01.03-18.47.06:575][141]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.01.03-18.47.06:575][141]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.01.03-18.47.06:575][141]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.01.03-18.47.06:580][141]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.01.03-18.47.06:580][141]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.03-18.47.06:582][141]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.03-18.47.06:583][141]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.03-18.47.06:583][141]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.03-18.47.06:583][141]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.03-18.47.06:583][141]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.01.03-18.47.06:583][141]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.01.03-18.47.06:792][141]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.01.03-18.47.06:793][141]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.03-18.47.06:799][141]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.01.03-18.47.06:800][141]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.01.03-18.47.06:800][141]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.03-18.47.06:801][141]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.03-18.47.06:802][141]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.03-18.47.06:903][141]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.03-18.47.07:004][141]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.03-18.47.07:004][141]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.03-18.47.07:004][141]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.03-18.47.07:004][141]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.03-18.47.07:004][141]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.03-18.47.07:004][141]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.03-18.47.07:004][141]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.03-18.47.07:006][141]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.03-18.47.07:006][141]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.03-18.47.07:006][141]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.03-18.47.07:006][141]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.03-18.47.07:007][141]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.03-18.47.07:009][141]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.03-18.47.07:009][141]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.03-18.47.07:009][141]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.03-18.47.07:009][141]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.03-18.47.07:010][141]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.03-18.47.07:010][141]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.03-18.47.07:010][141]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.03-18.47.07:017][141]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.03-18.47.07:018][141]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.03-18.47.07:018][141]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.03-18.47.07:018][141]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.03-18.47.07:018][141]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.03-18.47.07:018][141]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.03-18.47.07:022][141]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.03-18.47.07:023][141]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.03-18.47.07:024][141]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.03-18.47.07:030][141]LogDerivedDataCache: Shutdown
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.03-18.47.07:030][141]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.03-18.47.07:031][141]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.03-18.47.07:032][141]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.03-18.47.07:032][141]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.03-18.47.07:035][141]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.03-18.47.07:035][141]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.03-18.47.07:050][141]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.03-18.47.07:050][141]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.03-18.47.07:050][141]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.03-18.47.07:051][141]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.03-18.47.07:052][141]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.03-18.47.07:053][141]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.03-18.47.07:073][141]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.03-18.47.07:073][141]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.03-18.47.07:073][141]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB4BD40E-4923-D8AB-29BE-28ABE7D0DF30%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=275563794eb2f285a301eeb9b73aeb10%7C2e359d416f14471aab8308ec227836a8%7C979a699b-0543-4aaa-b7c2-8c9493cd5850&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.03-18.47.07:109][141]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.03-18.47.07:113][141]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.03-18.47.07:113][141]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.03-18.47.07:113][141]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.03-18.47.07:113][141]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.03-18.47.07:113][141]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.03-18.47.07:113][141]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.03-18.47.07:113][141]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.03-18.47.07:114][141]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.03-18.47.07:114][141]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.03-18.47.07:114][141]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.03-18.47.07:114][141]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.03-18.47.07:114][141]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.03-18.47.07:115][141]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.03-18.47.07:115][141]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.03-18.47.07:115][141]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.03-18.47.07:115][141]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.03-18.47.07:115][141]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.03-18.47.07:115][141]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.03-18.47.07:119][141]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.03-18.47.07:119][141]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.03-18.47.07:120][141]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.03-18.47.07:135][141]LogExit: Exiting.
+[2019.01.03-18.47.07:154][141]Log file closed, 01/03/19 20:47:07
