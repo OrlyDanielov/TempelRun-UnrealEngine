@@ -1,0 +1,1807 @@
+﻿Log file open, 01/03/19 20:47:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TempleRun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185219
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.109s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.03-18.47.08:913][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-18.47.08:913][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.03-18.47.08:922][  0]LogHAL: Display: Platform has ~ 8 GB [8488329216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.03-18.47.08:922][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.03-18.47.08:922][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.03-18.47.08:923][  0]LogInit: Computer: DESKTOP-GD1OE23
+[2019.01.03-18.47.08:923][  0]LogInit: User: אורלי
+[2019.01.03-18.47.08:923][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.03-18.47.08:923][  0]LogInit: High frequency timer resolution =2.340362 MHz
+[2019.01.03-18.47.08:923][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.03-18.47.08:923][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.03-18.47.08:923][  0]LogMemory: Process Physical Memory: 100.00 MB used, 100.00 MB peak
+[2019.01.03-18.47.08:923][  0]LogMemory: Process Virtual Memory: 84.39 MB used, 84.39 MB peak
+[2019.01.03-18.47.08:923][  0]LogMemory: Physical Memory: 2676.64 MB used,  5418.46 MB free, 8095.10 MB total
+[2019.01.03-18.47.08:923][  0]LogMemory: Virtual Memory: 485.85 MB used,  5418.46 MB free, 134217728.00 MB total
+[2019.01.03-18.47.08:938][  0]LogInit: Using OS detected language (he-IL).
+[2019.01.03-18.47.08:938][  0]LogInit: Using OS detected locale (he-IL).
+[2019.01.03-18.47.08:938][  0]LogTextLocalizationManager: No localization for 'he-IL' exists, so 'en' will be used for the language.
+[2019.01.03-18.47.09:400][  0]LogStreaming: Display: Took  0.462s to InitEngineTextLocalization.
+[2019.01.03-18.47.09:401][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.03-18.47.09:445][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.03-18.47.09:445][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.03-18.47.09:662][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-18.47.09:662][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.03-18.47.09:668][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2019.01.03-18.47.09:668][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2019.01.03-18.47.09:670][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.03-18.47.09:670][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.03-18.47.09:670][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.03-18.47.09:674][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.03-18.47.09:674][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.03-18.47.09:674][  0]LogWindows: EnumDisplayDevices:
+[2019.01.03-18.47.09:674][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:0 D:1)
+[2019.01.03-18.47.09:674][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2019.01.03-18.47.09:674][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2019.01.03-18.47.09:674][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.01.03-18.47.09:674][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2019.01.03-18.47.09:674][  0]LogD3D11RHI:   Driver Version: 20.19.15.4549 (internal:20.19.15.4549, unified:20.19.15.4549)
+[2019.01.03-18.47.09:674][  0]LogD3D11RHI:      Driver Date: 11-10-2016
+[2019.01.03-18.47.09:675][  0]LogRHI: Texture pool is 1506 MB (70% of 2151 MB)
+[2019.01.03-18.47.09:678][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.03-18.47.09:682][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.01.03-18.47.09:682][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Intermediate/Shaders/WorkingDirectory/9376/).
+[2019.01.03-18.47.09:684][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/אורלי/AppData/Local/Temp/UnrealShaderWorkingDir/C08314E1460AB35C6F094AA45B45DC73/'.
+[2019.01.03-18.47.10:035][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.03-18.47.10:050][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.03-18.47.10:065][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.03-18.47.10:080][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.03-18.47.10:095][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.03-18.47.10:110][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.03-18.47.10:125][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.03-18.47.10:144][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.03-18.47.10:152][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:244][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.03-18.47.10:245][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.03-18.47.10:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-18.47.10:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.03-18.47.10:334][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-18.47.10:334][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.03-18.47.10:348][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.03-18.47.10:362][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.03-18.47.10:376][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.03-18.47.10:393][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.03-18.47.10:404][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.03-18.47.10:404][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.03-18.47.10:457][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.03-18.47.10:457][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.03-18.47.10:457][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.03-18.47.11:343][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.03-18.47.11:426][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.03-18.47.11:426][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.03-18.47.11:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.03-18.47.11:426][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.03-18.47.11:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.03-18.47.11:426][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.03-18.47.11:441][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.03-18.47.11:453][  0]LogDerivedDataCache: Using Local data cache path C:/Users/אורלי/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.03-18.47.11:453][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.03-18.47.11:453][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.03-18.47.11:476][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.03-18.47.11:477][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.03-18.47.11:478][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.03-18.47.11:557][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2019.01.03-18.47.11:948][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.03-18.47.12:095][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.03-18.47.12:098][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.03-18.47.12:098][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.03-18.47.12:098][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.03-18.47.12:098][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.03-18.47.12:118][  0]LogNetVersion: TempleRun 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2232543940)
+[2019.01.03-18.47.12:645][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.045024 seconds
+[2019.01.03-18.47.12:655][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.03-18.47.12:655][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.03-18.47.12:655][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.03-18.47.13:615][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.03-18.47.13:628][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.03-18.47.13:780][  0]SourceControl: Source control is disabled
+[2019.01.03-18.47.13:780][  0]SourceControl: Source control is disabled
+[2019.01.03-18.47.13:781][  0]SourceControl: Source control is disabled
+[2019.01.03-18.47.13:782][  0]SourceControl: Source control is disabled
+[2019.01.03-18.47.13:942][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.03-18.47.13:987][  0]LogOcInput: OculusInput pre-init called
+[2019.01.03-18.47.14:052][  0]LogEngine: Initializing Engine...
+[2019.01.03-18.47.14:054][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.03-18.47.14:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.03-18.47.14:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-18.47.14:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-18.47.14:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-18.47.14:324][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.03-18.47.14:341][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.03-18.47.14:355][  0]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.47.14:362][  0]LogInit: FAudioDevice initialized.
+[2019.01.03-18.47.14:362][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.03-18.47.14:440][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/אורלי/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.03-18.47.14:446][  0]LogInit: Texture streaming: Enabled
+[2019.01.03-18.47.14:462][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.03-18.47.14:471][  0]LogInit: Transaction tracking system initialized
+[2019.01.03-18.47.14:491][  0]BlueprintLog: New page: Editor Load
+[2019.01.03-18.47.14:561][  0]LocalizationService: Localization service is disabled
+[2019.01.03-18.47.14:833][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.03-18.47.14:834][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.03-18.47.14:834][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.03-18.47.14:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.03-18.47.14:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.03-18.47.14:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.03-18.47.14:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.03-18.47.14:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/' took 0.01s
+[2019.01.03-18.47.14:952][  0]SourceControl: Source control is disabled
+[2019.01.03-18.47.14:953][  0]LightingResults: New page: Lighting Build
+[2019.01.03-18.47.14:955][  0]MapCheck: New page: Map Check
+[2019.01.03-18.47.14:955][  0]LightingResults: New page: Lighting Build
+[2019.01.03-18.47.15:539][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.03-18.47.15:551][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.03-18.47.15:586][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.03-18.47.15:642][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.532ms to complete.
+[2019.01.03-18.47.15:642][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.690
+[2019.01.03-18.47.15:719][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-18.47.15:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.47.15:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.47.15:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.47.15:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.47.15:799][  0]LogCollectionManager: Loaded 0 collections in 0.001740 seconds
+[2019.01.03-18.47.15:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Collections/' took 0.01s
+[2019.01.03-18.47.15:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/Developers/אורלי/Collections/' took 0.01s
+[2019.01.03-18.47.15:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/Collections/' took 0.01s
+[2019.01.03-18.47.15:841][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.03-18.47.15:853][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2572 classes and 603 folders.
+[2019.01.03-18.47.15:859][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.03-18.47.15:896][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.03-18.47.15:900][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.03-18.47.16:000][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.03-18.47.16:003][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.03-18.47.16:010][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.03-18.47.16:104][  0]LogRenderer: Reallocating scene render targets to support 1404x672 Format 10 NumSamples 1 (Frame:1).
+[2019.01.03-18.47.16:674][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.03-18.47.16:675][  0]LogLoad: (Engine Initialization) Total time: 8.96 seconds
+[2019.01.03-18.47.16:675][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.03-18.47.16:716][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.03-18.47.16:811][  2]LogAssetRegistry: Asset discovery search completed in 5.2756 seconds
+[2019.01.03-18.47.16:814][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.03-18.47.16:814][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2019.01.03-18.47.20:047][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.47.22:570][ 76]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.03-18.47.22:835][ 76]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.47.22:844][ 76]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Levels/Level1.Level1
+[2019.01.03-18.47.22:867][ 76]Cmd: MAP LOAD FILE="../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.03-18.47.22:867][ 76]LightingResults: New page: Lighting Build
+[2019.01.03-18.47.22:868][ 76]LoadErrors: New page: Loading map: Level1.umap
+[2019.01.03-18.47.22:868][ 76]MapCheck: New page: Map Check
+[2019.01.03-18.47.22:869][ 76]LightingResults: New page: Lighting Build
+[2019.01.03-18.47.22:990][ 76]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.03-18.47.23:036][ 76]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.03-18.47.23:105][ 76]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.416ms to complete.
+[2019.01.03-18.47.23:106][ 76]LogFileHelpers: Loading map 'Level1' took 0.240
+[2019.01.03-18.47.33:658][236]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.47.33:674][236]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-18.47.50:943][120]LogSlate: Took 0.006497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.03-18.48.02:471][313]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.48.02:496][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.48.02:509][313]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 22:48:02)
+[2019.01.03-18.48.02:509][313]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.48.02:513][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004363s)
+[2019.01.03-18.48.02:514][313]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.48.02:514][313]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.01.03-18.48.02:514][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.005463s)
+[2019.01.03-18.48.02:542][313]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.48.02:547][313]LogInit: FAudioDevice initialized.
+[2019.01.03-18.48.02:592][313]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.48.02:594][313]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.48.02
+[2019.01.03-18.48.02:595][313]LogWorld: Bringing up level for play took: 0.001704
+[2019.01.03-18.48.02:611][313]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.01.03-18.48.02:616][313]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.48.02:621][313]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.48.02:622][313]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.48.02:624][313]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.48.02:630][313]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.48.02:634][313]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.48.02:640][313]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.48.02:645][313]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.48.02:647][313]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.48.02:650][313]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.48.02:650][313]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 ‎-0.586
+[2019.01.03-18.48.03:955][323]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.48.04:586][329]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.48.05:273][336]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.48.05:274][336]Cmd: RestartLevel
+[2019.01.03-18.48.05:354][337]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.48.05:451][337]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.48.05:501][337]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.48.05:506][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005519s)
+[2019.01.03-18.48.05:507][337]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.48.05:508][337]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2019.01.03-18.48.05:508][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.007265s)
+[2019.01.03-18.48.05:508][337]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.48.05:512][337]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.48.05
+[2019.01.03-18.48.05:513][337]LogWorld: Bringing up level for play took: 0.003340
+[2019.01.03-18.48.05:520][337]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.48.05:529][337]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.48.05:531][337]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.48.05:533][337]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.48.05:538][337]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.48.05:545][337]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.48.05:553][337]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.48.05:557][337]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.48.05:562][337]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.48.05:562][337]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.48.05:562][337]LogLoad: Took 0.112618 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.48.06:189][345]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.48.06:598][349]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.48.06:818][351]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.48.07:244][355]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.48.07:523][358]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.48.07:924][363]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.48.08:141][366]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.48.08:589][371]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.48.08:810][373]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.48.09:458][378]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.48.10:224][383]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.48.10:819][387]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-18.48.11:096][389]Cmd: RestartLevel
+[2019.01.03-18.48.11:238][390]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.48.11:366][390]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.48.11:455][390]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.48.11:459][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004624s)
+[2019.01.03-18.48.11:460][390]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.48.11:460][390]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2019.01.03-18.48.11:460][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.005809s)
+[2019.01.03-18.48.11:460][390]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.48.11:463][390]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.48.11
+[2019.01.03-18.48.11:464][390]LogWorld: Bringing up level for play took: 0.002796
+[2019.01.03-18.48.11:480][390]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.48.11:482][390]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.48.11:484][390]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.48.11:487][390]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.48.11:491][390]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.48.11:496][390]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.48.11:498][390]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.48.11:501][390]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.48.11:502][390]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.48.11:503][390]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.48.11:504][390]LogLoad: Took 0.137599 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.48.12:024][396]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.48.12:380][400]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.48.12:753][404]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.48.13:358][413]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.48.14:175][425]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.48.14:177][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.48.14:256][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-18.48.14:279][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.48.14:299][426]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.03-18.48.37:563][632]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter
+[2019.01.03-18.48.38:319][632]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.01.03-18.48.39:342][632]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.03-18.48.39:640][633]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.03-18.48.45:526][753]LogSlate: Window 'RunCharacter' being destroyed
+[2019.01.03-18.57.49:758][877]BlueprintLog: New page: Compile RunCharacter
+[2019.01.03-18.57.52:418][995]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.57.52:459][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.57.52:459][995]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 22:57:52)
+[2019.01.03-18.57.52:459][995]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.57.52:464][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004409s)
+[2019.01.03-18.57.52:465][995]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.57.52:465][995]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2019.01.03-18.57.52:465][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.005892s)
+[2019.01.03-18.57.52:507][995]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.57.52:515][995]LogInit: FAudioDevice initialized.
+[2019.01.03-18.57.52:525][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.57.52:569][995]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.57.52:571][995]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.57.52
+[2019.01.03-18.57.52:572][995]LogWorld: Bringing up level for play took: 0.002337
+[2019.01.03-18.57.52:592][995]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.57.52:601][995]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.57.52:605][995]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.57.52:607][995]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.57.52:609][995]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.57.52:610][995]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.57.52:617][995]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.57.52:621][995]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.57.52:622][995]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.57.52:623][995]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.57.52:624][995]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 ‎-0.612
+[2019.01.03-18.57.53:080][995]LogRenderer: Reallocating scene render targets to support 1404x756 Format 10 NumSamples 1 (Frame:1).
+[2019.01.03-18.57.53:844][  1]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.57.54:148][  3]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.57.54:455][  5]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.57.54:956][  8]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.57.55:088][  9]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.57.55:530][ 13]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.57.56:206][ 20]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.57.56:820][ 27]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.57.57:595][ 37]Cmd: RestartLevel
+[2019.01.03-18.57.57:676][ 38]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.57.57:753][ 38]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.57.57:835][ 38]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.57.57:840][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004695s)
+[2019.01.03-18.57.57:841][ 38]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.57.57:841][ 38]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2019.01.03-18.57.57:841][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006018s)
+[2019.01.03-18.57.57:841][ 38]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.57.57:843][ 38]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.57.57
+[2019.01.03-18.57.57:844][ 38]LogWorld: Bringing up level for play took: 0.002105
+[2019.01.03-18.57.57:848][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.57.57:849][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.57.57:854][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.57.57:858][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.57.57:859][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.57.57:860][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.57.57:861][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.57.57:862][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.57.57:865][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.57.57:869][ 38]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.57.57:869][ 38]LogLoad: Took 0.115743 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.57.58:578][ 48]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.57.58:943][ 52]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.58.00:443][ 69]Cmd: RestartLevel
+[2019.01.03-18.58.00:525][ 70]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.00:614][ 70]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.00:698][ 70]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.00:704][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006121s)
+[2019.01.03-18.58.00:706][ 70]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.00:706][ 70]LogPlayLevel: PIE: World Init took: (0.002271s)
+[2019.01.03-18.58.00:706][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.008695s)
+[2019.01.03-18.58.00:706][ 70]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.00:709][ 70]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.00
+[2019.01.03-18.58.00:709][ 70]LogWorld: Bringing up level for play took: 0.002166
+[2019.01.03-18.58.00:716][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.00:719][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.00:722][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.00:726][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.00:729][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.00:733][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.00:736][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.00:740][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.00:741][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.00:744][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.00:744][ 70]LogLoad: Took 0.130203 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.01:466][ 76]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.58.01:767][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.58.02:192][ 81]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.58.02:444][ 83]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.58.02:804][ 86]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.58.03:062][ 88]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.58.03:662][ 92]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.58.03:832][ 93]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.58.04:306][ 96]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.58.04:476][ 97]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.58.04:999][100]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.58.05:180][101]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-18.58.05:671][104]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-18.58.05:815][105]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-18.58.06:354][109]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-18.58.06:472][110]LogBlueprintUserMessages: [BP_FloorTile_C_25] Hello
+[2019.01.03-18.58.07:080][115]LogBlueprintUserMessages: [BP_FloorTile_C_26] Hello
+[2019.01.03-18.58.07:690][119]LogBlueprintUserMessages: [BP_FloorTile_C_27] Hello
+[2019.01.03-18.58.08:527][124]LogBlueprintUserMessages: [BP_FloorTile_C_28] Hello
+[2019.01.03-18.58.08:892][126]Cmd: RestartLevel
+[2019.01.03-18.58.09:062][127]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.09:226][127]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.09:305][127]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.09:313][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007387s)
+[2019.01.03-18.58.09:314][127]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.09:314][127]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2019.01.03-18.58.09:315][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.009365s)
+[2019.01.03-18.58.09:315][127]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.09:319][127]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.09
+[2019.01.03-18.58.09:320][127]LogWorld: Bringing up level for play took: 0.003568
+[2019.01.03-18.58.09:328][127]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.09:332][127]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.09:365][127]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.09:368][127]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.09:380][127]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.09:385][127]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.09:391][127]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.09:395][127]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.09:403][127]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.09:405][127]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.09:405][127]LogLoad: Took 0.179005 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.09:871][134]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.58.10:559][142]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.58.11:230][148]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.58.11:959][154]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.58.12:084][155]Cmd: RestartLevel
+[2019.01.03-18.58.12:225][156]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.12:348][156]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.12:447][156]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.12:454][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006980s)
+[2019.01.03-18.58.12:456][156]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.12:456][156]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2019.01.03-18.58.12:456][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.008843s)
+[2019.01.03-18.58.12:456][156]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.12:459][156]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.12
+[2019.01.03-18.58.12:460][156]LogWorld: Bringing up level for play took: 0.002836
+[2019.01.03-18.58.12:473][156]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.12:474][156]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.12:476][156]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.12:479][156]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.12:480][156]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.12:486][156]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.12:489][156]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.12:490][156]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.12:492][156]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.12:493][156]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.12:493][156]LogLoad: Took 0.145719 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.13:029][162]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.58.13:457][166]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.58.13:741][169]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.58.14:098][173]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.58.14:401][176]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.58.14:762][179]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.58.15:116][182]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.58.15:464][185]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.58.15:799][188]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.58.16:039][190]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.58.16:457][193]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.58.16:731][195]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-18.58.17:250][199]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-18.58.17:480][201]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-18.58.18:054][208]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-18.58.19:668][228]Cmd: RestartLevel
+[2019.01.03-18.58.19:739][229]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.19:813][229]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.19:897][229]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.19:899][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002292s)
+[2019.01.03-18.58.19:900][229]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.19:900][229]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2019.01.03-18.58.19:900][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003201s)
+[2019.01.03-18.58.19:900][229]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.19:901][229]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.19
+[2019.01.03-18.58.19:902][229]LogWorld: Bringing up level for play took: 0.001509
+[2019.01.03-18.58.19:906][229]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.19:913][229]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.19:917][229]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.19:919][229]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.19:920][229]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.19:922][229]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.19:923][229]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.19:926][229]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.19:929][229]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.19:932][229]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.19:932][229]LogLoad: Took 0.119213 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.20:544][236]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.58.20:655][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.58.20:697][237]LogSlate: Window 'TempleRun Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.03-18.58.20:867][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-18.58.21:043][238]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.03-18.58.24:865][467]BlueprintLog: New page: Compile RunCharacter
+[2019.01.03-18.58.25:774][478]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunCharacterA879AA824BB5A74190C773A8C9ABB05D.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.01.03-18.58.28:463][562]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.58.28:545][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.58.28:545][562]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 22:58:28)
+[2019.01.03-18.58.28:545][562]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.28:549][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004157s)
+[2019.01.03-18.58.28:550][562]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.28:551][562]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2019.01.03-18.58.28:551][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.005648s)
+[2019.01.03-18.58.28:593][562]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.58.28:598][562]LogInit: FAudioDevice initialized.
+[2019.01.03-18.58.28:629][562]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.28:630][562]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.28
+[2019.01.03-18.58.28:631][562]LogWorld: Bringing up level for play took: 0.001551
+[2019.01.03-18.58.28:648][562]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.28:650][562]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.28:652][562]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.28:654][562]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.28:657][562]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.28:658][562]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.28:659][562]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.28:662][562]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.28:664][562]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.28:667][562]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.28:667][562]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 ‎-0.568
+[2019.01.03-18.58.29:273][570]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.58.29:701][575]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.58.29:908][579]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.58.30:333][585]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.58.30:599][589]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.58.31:021][595]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.58.31:309][599]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.58.31:665][604]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.58.32:110][611]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.58.32:375][615]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.58.32:772][622]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.58.33:013][627]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-18.58.33:714][639]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-18.58.34:348][649]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-18.58.35:018][660]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-18.58.35:386][666]Cmd: RestartLevel
+[2019.01.03-18.58.35:445][667]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.35:508][667]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.35:573][667]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.35:577][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003912s)
+[2019.01.03-18.58.35:578][667]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.35:578][667]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2019.01.03-18.58.35:578][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004964s)
+[2019.01.03-18.58.35:578][667]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.35:580][667]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.35
+[2019.01.03-18.58.35:581][667]LogWorld: Bringing up level for play took: 0.002183
+[2019.01.03-18.58.35:585][667]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.35:588][667]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.35:591][667]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.35:595][667]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.35:596][667]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.35:597][667]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.35:598][667]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.35:601][667]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.35:602][667]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.35:605][667]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.35:605][667]LogLoad: Took 0.097825 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.36:299][678]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.58.36:668][683]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.58.36:932][686]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.58.37:337][690]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.58.37:651][693]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.58.38:011][697]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.58.38:244][700]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.58.38:699][707]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.58.38:949][712]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.58.39:347][721]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.58.39:618][727]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.58.40:009][735]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-18.58.40:429][742]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-18.58.41:158][752]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-18.58.41:808][761]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-18.58.42:462][769]LogBlueprintUserMessages: [BP_FloorTile_C_25] Hello
+[2019.01.03-18.58.42:545][770]Cmd: RestartLevel
+[2019.01.03-18.58.42:632][771]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.42:726][771]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.42:826][771]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.42:831][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005403s)
+[2019.01.03-18.58.42:832][771]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.42:832][771]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.01.03-18.58.42:832][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.006471s)
+[2019.01.03-18.58.42:832][771]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.42:834][771]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.42
+[2019.01.03-18.58.42:835][771]LogWorld: Bringing up level for play took: 0.001767
+[2019.01.03-18.58.42:839][771]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.42:842][771]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.42:846][771]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.42:847][771]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.42:850][771]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.42:853][771]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.42:856][771]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.42:860][771]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.42:861][771]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.42:862][771]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.42:862][771]LogLoad: Took 0.136517 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.43:427][780]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.58.43:886][786]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.58.44:159][789]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.58.44:517][793]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.58.44:867][797]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.58.45:160][801]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.58.45:519][806]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.58.45:820][810]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.58.46:164][814]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.58.46:521][818]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.58.46:887][822]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.58.47:152][825]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-18.58.47:609][830]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-18.58.47:893][833]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-18.58.48:238][837]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-18.58.48:531][841]LogBlueprintUserMessages: [BP_FloorTile_C_25] Hello
+[2019.01.03-18.58.48:927][848]LogBlueprintUserMessages: [BP_FloorTile_C_26] Hello
+[2019.01.03-18.58.49:145][852]LogBlueprintUserMessages: [BP_FloorTile_C_27] Hello
+[2019.01.03-18.58.49:678][861]LogBlueprintUserMessages: [BP_FloorTile_C_28] Hello
+[2019.01.03-18.58.49:901][863]LogBlueprintUserMessages: [BP_FloorTile_C_29] Hello
+[2019.01.03-18.58.50:312][870]LogBlueprintUserMessages: [BP_FloorTile_C_30] Hello
+[2019.01.03-18.58.50:530][873]LogBlueprintUserMessages: [BP_FloorTile_C_31] Hello
+[2019.01.03-18.58.51:017][880]LogBlueprintUserMessages: [BP_FloorTile_C_32] Hello
+[2019.01.03-18.58.51:686][889]LogBlueprintUserMessages: [BP_FloorTile_C_33] Hello
+[2019.01.03-18.58.52:405][898]LogBlueprintUserMessages: [BP_FloorTile_C_34] Hello
+[2019.01.03-18.58.53:071][908]LogBlueprintUserMessages: [BP_FloorTile_C_35] Hello
+[2019.01.03-18.58.53:076][908]Cmd: RestartLevel
+[2019.01.03-18.58.53:134][909]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.53:204][909]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.53:289][909]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.53:292][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002899s)
+[2019.01.03-18.58.53:292][909]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.53:292][909]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2019.01.03-18.58.53:292][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003917s)
+[2019.01.03-18.58.53:292][909]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.53:295][909]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.53
+[2019.01.03-18.58.53:295][909]LogWorld: Bringing up level for play took: 0.001717
+[2019.01.03-18.58.53:299][909]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.53:300][909]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.53:301][909]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.53:302][909]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.53:306][909]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.53:307][909]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.53:310][909]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.53:311][909]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.53:312][909]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.53:313][909]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.53:313][909]LogLoad: Took 0.109768 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.55:865][972]Cmd: RestartLevel
+[2019.01.03-18.58.55:901][973]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.58.55:943][973]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.58.56:003][973]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.58.56:006][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002712s)
+[2019.01.03-18.58.56:007][973]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.58.56:007][973]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.01.03-18.58.56:007][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003710s)
+[2019.01.03-18.58.56:007][973]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.58.56:009][973]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.58.56
+[2019.01.03-18.58.56:009][973]LogWorld: Bringing up level for play took: 0.001876
+[2019.01.03-18.58.56:016][973]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.58.56:017][973]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.58.56:020][973]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.58.56:023][973]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.58.56:026][973]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.58.56:027][973]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.58.56:030][973]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.58.56:034][973]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.58.56:038][973]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.58.56:039][973]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.58.56:039][973]LogLoad: Took 0.095865 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.58.56:377][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.58.56:506][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-18.58.56:580][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-18.58.56:624][979]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.03-18.58.57:962][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-18.59.07:470][387]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-18.59.07:575][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-18.59.07:576][387]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 22:59:07)
+[2019.01.03-18.59.07:576][387]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.07:582][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006376s)
+[2019.01.03-18.59.07:583][387]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.07:584][387]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2019.01.03-18.59.07:584][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.007881s)
+[2019.01.03-18.59.07:624][387]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-18.59.07:631][387]LogInit: FAudioDevice initialized.
+[2019.01.03-18.59.07:683][387]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.07:686][387]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.07
+[2019.01.03-18.59.07:686][387]LogWorld: Bringing up level for play took: 0.002103
+[2019.01.03-18.59.07:702][387]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.07:703][387]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.07:705][387]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.07:709][387]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.07:710][387]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.07:711][387]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.07:712][387]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.07:713][387]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.07:717][387]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.07:720][387]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.07:720][387]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 0.484
+[2019.01.03-18.59.08:846][406]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.09:571][422]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.10:217][437]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.10:259][438]Cmd: RestartLevel
+[2019.01.03-18.59.10:316][439]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.10:363][439]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.10:441][439]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.10:445][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004048s)
+[2019.01.03-18.59.10:446][439]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.10:446][439]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2019.01.03-18.59.10:446][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.005359s)
+[2019.01.03-18.59.10:446][439]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.10:449][439]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.10
+[2019.01.03-18.59.10:449][439]LogWorld: Bringing up level for play took: 0.002774
+[2019.01.03-18.59.10:460][439]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.10:465][439]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.10:470][439]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.10:472][439]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.10:476][439]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.10:478][439]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.10:479][439]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.10:489][439]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.10:493][439]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.10:494][439]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.10:494][439]LogLoad: Took 0.131807 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.11:130][447]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.11:611][452]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.11:806][454]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.12:182][458]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.59.12:433][461]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.59.12:852][467]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.59.13:099][470]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.59.13:543][477]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.59.13:842][481]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.59.14:203][486]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.59.14:610][493]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.59.16:758][530]Cmd: RestartLevel
+[2019.01.03-18.59.16:799][531]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.16:838][531]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.16:939][531]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.16:942][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002917s)
+[2019.01.03-18.59.16:942][531]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.16:943][531]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2019.01.03-18.59.16:943][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004053s)
+[2019.01.03-18.59.16:943][531]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.16:945][531]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.16
+[2019.01.03-18.59.16:945][531]LogWorld: Bringing up level for play took: 0.001858
+[2019.01.03-18.59.16:952][531]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.16:955][531]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.16:957][531]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.16:960][531]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.16:964][531]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.16:968][531]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.16:976][531]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.16:978][531]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.16:983][531]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.16:984][531]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.16:985][531]LogLoad: Took 0.146403 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.17:610][539]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.17:887][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-18.59.18:087][543]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.18:287][546]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.18:720][551]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.59.19:378][559]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.59.20:456][582]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.59.21:125][591]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.59.21:196][592]Cmd: RestartLevel
+[2019.01.03-18.59.21:749][593]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.21:752][593]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.21:801][593]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.21:804][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002847s)
+[2019.01.03-18.59.21:804][593]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.21:805][593]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2019.01.03-18.59.21:805][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003948s)
+[2019.01.03-18.59.21:805][593]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.21:807][593]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.21
+[2019.01.03-18.59.21:807][593]LogWorld: Bringing up level for play took: 0.001728
+[2019.01.03-18.59.21:814][593]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.21:817][593]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.21:818][593]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.21:821][593]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.21:822][593]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.21:826][593]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.21:827][593]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.21:830][593]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.21:831][593]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.21:832][593]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.21:833][593]LogLoad: Took 0.080544 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.22:279][598]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.22:729][604]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.22:972][607]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.23:344][612]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.59.25:192][668]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.59.27:325][736]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.59.28:078][749]Cmd: RestartLevel
+[2019.01.03-18.59.28:182][750]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.28:182][750]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.28:294][750]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.28:297][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003525s)
+[2019.01.03-18.59.28:298][750]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.28:298][750]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2019.01.03-18.59.28:298][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004785s)
+[2019.01.03-18.59.28:299][750]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.28:301][750]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.28
+[2019.01.03-18.59.28:301][750]LogWorld: Bringing up level for play took: 0.002172
+[2019.01.03-18.59.28:306][750]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.28:308][750]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.28:310][750]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.28:311][750]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.28:312][750]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.28:314][750]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.28:319][750]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.28:323][750]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.28:324][750]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.28:325][750]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.28:326][750]LogLoad: Took 0.143124 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.29:028][763]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.29:403][770]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.29:835][778]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.30:039][782]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.59.30:736][795]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.59.31:379][808]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.59.32:388][829]Cmd: RestartLevel
+[2019.01.03-18.59.32:436][830]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.32:438][830]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.32:502][830]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.32:506][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004014s)
+[2019.01.03-18.59.32:507][830]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.32:507][830]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2019.01.03-18.59.32:507][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.005319s)
+[2019.01.03-18.59.32:507][830]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.32:510][830]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.32
+[2019.01.03-18.59.32:510][830]LogWorld: Bringing up level for play took: 0.002024
+[2019.01.03-18.59.32:515][830]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.32:516][830]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.32:518][830]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.32:523][830]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.32:528][830]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.32:532][830]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.32:534][830]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.32:537][830]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.32:540][830]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.32:541][830]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.32:541][830]LogLoad: Took 0.103011 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.33:699][851]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.34:193][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.03-18.59.34:367][863]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.35:055][876]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.35:057][876]Cmd: RestartLevel
+[2019.01.03-18.59.35:106][877]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.35:109][877]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.35:199][877]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.35:202][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003367s)
+[2019.01.03-18.59.35:203][877]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.35:203][877]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2019.01.03-18.59.35:203][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004594s)
+[2019.01.03-18.59.35:203][877]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.35:205][877]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.35
+[2019.01.03-18.59.35:206][877]LogWorld: Bringing up level for play took: 0.001872
+[2019.01.03-18.59.35:210][877]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.35:214][877]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.35:217][877]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.35:221][877]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.35:224][877]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.35:225][877]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.35:228][877]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.35:231][877]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.35:232][877]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.35:236][877]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.35:236][877]LogLoad: Took 0.127075 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.36:338][893]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.37:059][902]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.38:677][954]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.38:755][955]Cmd: RestartLevel
+[2019.01.03-18.59.38:840][956]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.38:924][956]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.38:990][956]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.38:995][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005473s)
+[2019.01.03-18.59.38:997][956]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.38:997][956]LogPlayLevel: PIE: World Init took: (0.001753s)
+[2019.01.03-18.59.38:997][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.007697s)
+[2019.01.03-18.59.38:997][956]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.39:000][956]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.39
+[2019.01.03-18.59.39:001][956]LogWorld: Bringing up level for play took: 0.002653
+[2019.01.03-18.59.39:009][956]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.39:011][956]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.39:012][956]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.39:014][956]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.39:016][956]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.39:018][956]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.39:021][956]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.39:023][956]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.39:024][956]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.39:026][956]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.39:026][956]LogLoad: Took 0.101233 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.40:042][976]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.41:478][  8]Cmd: RestartLevel
+[2019.01.03-18.59.41:518][  9]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.41:525][  9]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.41:592][  9]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.41:596][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003163s)
+[2019.01.03-18.59.41:596][  9]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.41:597][  9]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2019.01.03-18.59.41:597][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004218s)
+[2019.01.03-18.59.41:597][  9]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.41:599][  9]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.41
+[2019.01.03-18.59.41:599][  9]LogWorld: Bringing up level for play took: 0.001981
+[2019.01.03-18.59.41:606][  9]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.41:609][  9]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.41:610][  9]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.41:611][  9]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.41:612][  9]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.41:614][  9]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.41:615][  9]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.41:616][  9]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.41:617][  9]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.41:620][  9]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.41:620][  9]LogLoad: Took 0.095271 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.42:361][ 19]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.42:799][ 24]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.42:961][ 26]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.43:425][ 33]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.59.45:540][ 77]Cmd: RestartLevel
+[2019.01.03-18.59.45:590][ 78]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.45:634][ 78]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.45:702][ 78]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.45:705][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002993s)
+[2019.01.03-18.59.45:706][ 78]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.45:706][ 78]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2019.01.03-18.59.45:706][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004134s)
+[2019.01.03-18.59.45:706][ 78]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.45:708][ 78]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.45
+[2019.01.03-18.59.45:708][ 78]LogWorld: Bringing up level for play took: 0.001525
+[2019.01.03-18.59.45:712][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.45:715][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.45:717][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.45:720][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.45:723][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.45:724][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.45:727][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.45:730][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.45:731][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.45:732][ 78]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.45:732][ 78]LogLoad: Took 0.098176 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.46:430][ 89]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.47:200][100]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.47:950][111]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.48:690][120]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.59.48:691][120]Cmd: RestartLevel
+[2019.01.03-18.59.48:784][121]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.48:875][121]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.48:967][121]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.48:973][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005211s)
+[2019.01.03-18.59.48:974][121]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.48:975][121]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2019.01.03-18.59.48:975][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.007551s)
+[2019.01.03-18.59.48:975][121]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.48:982][121]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.48
+[2019.01.03-18.59.48:982][121]LogWorld: Bringing up level for play took: 0.005458
+[2019.01.03-18.59.48:994][121]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.48:998][121]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.49:004][121]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.49:009][121]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.49:015][121]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.49:017][121]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.49:022][121]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.49:023][121]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.49:028][121]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.49:029][121]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.49:030][121]LogLoad: Took 0.154511 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.49:599][129]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.49:980][134]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-18.59.50:375][140]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-18.59.50:694][144]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-18.59.51:121][149]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-18.59.51:311][151]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-18.59.51:881][157]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-18.59.51:976][158]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-18.59.52:606][166]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-18.59.52:720][167]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-18.59.53:338][175]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-18.59.53:361][175]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-18.59.53:957][184]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-18.59.53:961][184]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-18.59.54:675][194]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-18.59.54:679][194]LogBlueprintUserMessages: [BP_FloorTile_C_25] Hello
+[2019.01.03-18.59.55:351][203]LogBlueprintUserMessages: [BP_FloorTile_C_26] Hello
+[2019.01.03-18.59.55:361][203]LogBlueprintUserMessages: [BP_FloorTile_C_27] Hello
+[2019.01.03-18.59.55:951][212]LogBlueprintUserMessages: [BP_FloorTile_C_28] Hello
+[2019.01.03-18.59.56:013][213]LogBlueprintUserMessages: [BP_FloorTile_C_29] Hello
+[2019.01.03-18.59.56:696][224]LogBlueprintUserMessages: [BP_FloorTile_C_30] Hello
+[2019.01.03-18.59.57:402][233]LogBlueprintUserMessages: [BP_FloorTile_C_31] Hello
+[2019.01.03-18.59.58:037][241]LogBlueprintUserMessages: [BP_FloorTile_C_32] Hello
+[2019.01.03-18.59.58:509][247]Cmd: RestartLevel
+[2019.01.03-18.59.58:584][248]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-18.59.58:656][248]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-18.59.58:755][248]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-18.59.58:759][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003699s)
+[2019.01.03-18.59.58:760][248]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-18.59.58:760][248]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2019.01.03-18.59.58:760][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004967s)
+[2019.01.03-18.59.58:760][248]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-18.59.58:764][248]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-20.59.58
+[2019.01.03-18.59.58:764][248]LogWorld: Bringing up level for play took: 0.002790
+[2019.01.03-18.59.58:771][248]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-18.59.58:775][248]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-18.59.58:777][248]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-18.59.58:780][248]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-18.59.58:782][248]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-18.59.58:786][248]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-18.59.58:787][248]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-18.59.58:788][248]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-18.59.58:792][248]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-18.59.58:793][248]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-18.59.58:794][248]LogLoad: Took 0.138331 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-18.59.59:382][255]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-18.59.59:851][260]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.00.00:027][262]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.00.00:447][267]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-19.00.00:707][270]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-19.00.01:135][275]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-19.00.01:491][279]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-19.00.01:851][283]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-19.00.02:100][286]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-19.00.02:471][291]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-19.00.02:790][295]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-19.00.03:125][300]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-19.00.03:450][305]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-19.00.03:801][311]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-19.00.04:123][316]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-19.00.04:490][321]LogBlueprintUserMessages: [BP_FloorTile_C_25] Hello
+[2019.01.03-19.00.04:795][325]LogBlueprintUserMessages: [BP_FloorTile_C_26] Hello
+[2019.01.03-19.00.05:099][329]LogBlueprintUserMessages: [BP_FloorTile_C_27] Hello
+[2019.01.03-19.00.05:473][334]LogBlueprintUserMessages: [BP_FloorTile_C_28] Hello
+[2019.01.03-19.00.05:787][338]LogBlueprintUserMessages: [BP_FloorTile_C_29] Hello
+[2019.01.03-19.00.06:202][342]LogBlueprintUserMessages: [BP_FloorTile_C_30] Hello
+[2019.01.03-19.00.06:482][346]LogBlueprintUserMessages: [BP_FloorTile_C_31] Hello
+[2019.01.03-19.00.06:753][349]LogBlueprintUserMessages: [BP_FloorTile_C_32] Hello
+[2019.01.03-19.00.07:125][353]LogBlueprintUserMessages: [BP_FloorTile_C_33] Hello
+[2019.01.03-19.00.07:444][357]LogBlueprintUserMessages: [BP_FloorTile_C_34] Hello
+[2019.01.03-19.00.07:784][362]LogBlueprintUserMessages: [BP_FloorTile_C_35] Hello
+[2019.01.03-19.00.08:144][368]LogBlueprintUserMessages: [BP_FloorTile_C_36] Hello
+[2019.01.03-19.00.08:457][373]LogBlueprintUserMessages: [BP_FloorTile_C_37] Hello
+[2019.01.03-19.00.08:872][379]LogBlueprintUserMessages: [BP_FloorTile_C_38] Hello
+[2019.01.03-19.00.09:107][382]LogBlueprintUserMessages: [BP_FloorTile_C_39] Hello
+[2019.01.03-19.00.09:614][389]LogBlueprintUserMessages: [BP_FloorTile_C_40] Hello
+[2019.01.03-19.00.10:327][399]LogBlueprintUserMessages: [BP_FloorTile_C_41] Hello
+[2019.01.03-19.00.11:008][409]LogBlueprintUserMessages: [BP_FloorTile_C_42] Hello
+[2019.01.03-19.00.11:642][422]Cmd: RestartLevel
+[2019.01.03-19.00.11:684][423]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-19.00.11:734][423]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-19.00.11:822][423]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.00.11:825][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002621s)
+[2019.01.03-19.00.11:825][423]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.00.11:826][423]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.01.03-19.00.11:826][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003619s)
+[2019.01.03-19.00.11:826][423]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.00.11:827][423]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.00.11
+[2019.01.03-19.00.11:828][423]LogWorld: Bringing up level for play took: 0.001616
+[2019.01.03-19.00.11:833][423]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.00.11:837][423]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.00.11:839][423]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.00.11:842][423]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.00.11:846][423]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.00.11:849][423]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.00.11:850][423]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.00.11:853][423]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.00.11:856][423]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.00.11:859][423]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.00.11:860][423]LogLoad: Took 0.125911 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-19.00.12:492][430]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.00.12:930][434]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.00.13:158][436]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.00.13:162][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-19.00.13:328][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-19.00.13:391][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-19.00.13:479][437]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.03-19.00.14:909][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-19.00.36:517][942]LogSlate: Window 'RunCharacter' being destroyed
+[2019.01.03-19.01.19:629][514]BlueprintLog: New page: Compile RunCharacter
+[2019.01.03-19.01.23:115][609]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.03-19.01.23:201][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.03-19.01.23:201][609]PIE: New page: PIE session: Level1 (3 בינו׳ 2019, 23:01:23)
+[2019.01.03-19.01.23:201][609]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.01.23:204][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002833s)
+[2019.01.03-19.01.23:205][609]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.01.23:205][609]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2019.01.03-19.01.23:205][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003958s)
+[2019.01.03-19.01.23:243][609]LogInit: XAudio2 using 'ASUS VP247 (שמע תצוגת Intel(R)‎)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.03-19.01.23:249][609]LogInit: FAudioDevice initialized.
+[2019.01.03-19.01.23:278][609]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.01.23:280][609]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.01.23
+[2019.01.03-19.01.23:280][609]LogWorld: Bringing up level for play took: 0.001626
+[2019.01.03-19.01.23:298][609]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.01.23:301][609]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.01.23:306][609]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.01.23:311][609]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.01.23:315][609]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.01.23:320][609]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.01.23:321][609]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.01.23:323][609]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.01.23:326][609]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.01.23:327][609]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.01.23:327][609]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1 0.091
+[2019.01.03-19.01.23:938][616]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.01.24:337][619]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.01.24:639][623]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.01.24:998][627]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-19.01.25:450][632]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-19.01.25:706][635]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-19.01.26:152][640]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-19.01.26:335][642]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-19.01.26:899][648]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-19.01.26:999][649]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-19.01.27:514][655]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-19.01.27:645][657]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-19.01.28:152][666]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-19.01.28:820][679]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-19.01.29:527][690]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-19.01.30:198][701]LogBlueprintUserMessages: [BP_FloorTile_C_25] Hello
+[2019.01.03-19.01.30:200][701]Cmd: RestartLevel
+[2019.01.03-19.01.30:245][702]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-19.01.30:291][702]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-19.01.30:361][702]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.01.30:364][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003011s)
+[2019.01.03-19.01.30:364][702]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.01.30:365][702]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.01.03-19.01.30:365][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003949s)
+[2019.01.03-19.01.30:365][702]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.01.30:367][702]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.01.30
+[2019.01.03-19.01.30:367][702]LogWorld: Bringing up level for play took: 0.001889
+[2019.01.03-19.01.30:371][702]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.01.30:375][702]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.01.30:376][702]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.01.30:377][702]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.01.30:379][702]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.01.30:383][702]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.01.30:389][702]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.01.30:395][702]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.01.30:396][702]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.01.30:401][702]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.01.30:402][702]LogLoad: Took 0.110154 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-19.01.31:060][714]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.01.31:748][724]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.01.32:360][734]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.01.33:060][749]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-19.01.33:353][755]Cmd: RestartLevel
+[2019.01.03-19.01.33:405][756]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-19.01.33:458][756]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-19.01.33:522][756]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.01.33:526][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003778s)
+[2019.01.03-19.01.33:527][756]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.01.33:527][756]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2019.01.03-19.01.33:527][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.005124s)
+[2019.01.03-19.01.33:527][756]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.01.33:530][756]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.01.33
+[2019.01.03-19.01.33:530][756]LogWorld: Bringing up level for play took: 0.002070
+[2019.01.03-19.01.33:536][756]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.01.33:540][756]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.01.33:542][756]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.01.33:546][756]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.01.33:550][756]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.01.33:554][756]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.01.33:555][756]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.01.33:556][756]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.01.33:559][756]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.01.33:563][756]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.01.33:563][756]LogLoad: Took 0.105176 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-19.01.34:232][767]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.01.34:884][776]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.01.35:555][785]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.01.36:200][793]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-19.01.36:477][796]Cmd: RestartLevel
+[2019.01.03-19.01.36:572][797]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-19.01.36:676][797]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-19.01.36:775][797]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.01.36:779][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003527s)
+[2019.01.03-19.01.36:779][797]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.01.36:780][797]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.01.03-19.01.36:780][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004686s)
+[2019.01.03-19.01.36:780][797]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.01.36:782][797]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.01.36
+[2019.01.03-19.01.36:782][797]LogWorld: Bringing up level for play took: 0.001931
+[2019.01.03-19.01.36:791][797]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.01.36:792][797]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.01.36:794][797]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.01.36:795][797]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.01.36:796][797]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.01.36:799][797]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.01.36:802][797]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.01.36:806][797]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.01.36:807][797]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.01.36:810][797]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.01.36:811][797]LogLoad: Took 0.133987 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-19.01.37:382][806]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.01.37:779][812]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.01.38:197][820]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.01.38:431][825]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-19.01.38:872][835]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-19.01.39:103][840]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-19.01.39:586][850]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-19.01.39:778][854]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-19.01.40:277][862]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-19.01.40:430][864]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-19.01.40:937][870]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-19.01.41:113][872]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-19.01.41:681][878]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-19.01.41:778][879]LogBlueprintUserMessages: [BP_FloorTile_C_23] Hello
+[2019.01.03-19.01.42:346][885]LogBlueprintUserMessages: [BP_FloorTile_C_24] Hello
+[2019.01.03-19.01.42:438][886]LogBlueprintUserMessages: [BP_FloorTile_C_25] Hello
+[2019.01.03-19.01.42:979][893]LogBlueprintUserMessages: [BP_FloorTile_C_26] Hello
+[2019.01.03-19.01.43:148][895]LogBlueprintUserMessages: [BP_FloorTile_C_27] Hello
+[2019.01.03-19.01.43:632][901]LogBlueprintUserMessages: [BP_FloorTile_C_28] Hello
+[2019.01.03-19.01.43:822][903]LogBlueprintUserMessages: [BP_FloorTile_C_29] Hello
+[2019.01.03-19.01.44:374][909]LogBlueprintUserMessages: [BP_FloorTile_C_30] Hello
+[2019.01.03-19.01.44:467][910]LogBlueprintUserMessages: [BP_FloorTile_C_31] Hello
+[2019.01.03-19.01.45:047][916]LogBlueprintUserMessages: [BP_FloorTile_C_32] Hello
+[2019.01.03-19.01.45:132][917]LogBlueprintUserMessages: [BP_FloorTile_C_33] Hello
+[2019.01.03-19.01.45:681][924]LogBlueprintUserMessages: [BP_FloorTile_C_34] Hello
+[2019.01.03-19.01.45:764][925]LogBlueprintUserMessages: [BP_FloorTile_C_35] Hello
+[2019.01.03-19.01.46:442][933]LogBlueprintUserMessages: [BP_FloorTile_C_36] Hello
+[2019.01.03-19.01.46:516][934]LogBlueprintUserMessages: [BP_FloorTile_C_37] Hello
+[2019.01.03-19.01.47:128][942]LogBlueprintUserMessages: [BP_FloorTile_C_38] Hello
+[2019.01.03-19.01.47:133][942]LogBlueprintUserMessages: [BP_FloorTile_C_39] Hello
+[2019.01.03-19.01.47:792][951]LogBlueprintUserMessages: [BP_FloorTile_C_40] Hello
+[2019.01.03-19.01.47:800][951]LogBlueprintUserMessages: [BP_FloorTile_C_41] Hello
+[2019.01.03-19.01.48:472][962]LogBlueprintUserMessages: [BP_FloorTile_C_42] Hello
+[2019.01.03-19.01.48:475][962]LogBlueprintUserMessages: [BP_FloorTile_C_43] Hello
+[2019.01.03-19.01.49:096][976]LogBlueprintUserMessages: [BP_FloorTile_C_44] Hello
+[2019.01.03-19.01.49:137][977]LogBlueprintUserMessages: [BP_FloorTile_C_45] Hello
+[2019.01.03-19.01.49:772][992]LogBlueprintUserMessages: [BP_FloorTile_C_46] Hello
+[2019.01.03-19.01.49:937][996]LogBlueprintUserMessages: [BP_FloorTile_C_47] Hello
+[2019.01.03-19.01.50:457][  8]LogBlueprintUserMessages: [BP_FloorTile_C_48] Hello
+[2019.01.03-19.01.50:586][ 11]LogBlueprintUserMessages: [BP_FloorTile_C_49] Hello
+[2019.01.03-19.01.51:421][ 26]LogBlueprintUserMessages: [BP_FloorTile_C_50] Hello
+[2019.01.03-19.01.52:107][ 36]LogBlueprintUserMessages: [BP_FloorTile_C_51] Hello
+[2019.01.03-19.01.52:796][ 46]LogBlueprintUserMessages: [BP_FloorTile_C_52] Hello
+[2019.01.03-19.01.52:933][ 48]Cmd: RestartLevel
+[2019.01.03-19.01.53:004][ 49]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-19.01.53:071][ 49]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-19.01.53:146][ 49]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.01.53:148][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002658s)
+[2019.01.03-19.01.53:149][ 49]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.01.53:149][ 49]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2019.01.03-19.01.53:150][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.003793s)
+[2019.01.03-19.01.53:150][ 49]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.01.53:151][ 49]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.01.53
+[2019.01.03-19.01.53:152][ 49]LogWorld: Bringing up level for play took: 0.001654
+[2019.01.03-19.01.53:160][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.01.53:163][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.01.53:165][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.01.53:166][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.01.53:169][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.01.53:175][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.01.53:176][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.01.53:182][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.01.53:185][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.01.53:190][ 49]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.01.53:190][ 49]LogLoad: Took 0.118886 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-19.01.53:817][ 57]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.01.54:260][ 62]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.01.54:594][ 66]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.01.54:876][ 70]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-19.01.55:267][ 76]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-19.01.55:956][ 89]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-19.01.56:632][ 98]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-19.01.57:295][106]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-19.01.57:449][108]Cmd: RestartLevel
+[2019.01.03-19.01.57:530][109]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-19.01.57:608][109]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-19.01.57:672][109]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.01.57:676][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003659s)
+[2019.01.03-19.01.57:677][109]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.01.57:677][109]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2019.01.03-19.01.57:677][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.004969s)
+[2019.01.03-19.01.57:677][109]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.01.57:680][109]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.01.57
+[2019.01.03-19.01.57:681][109]LogWorld: Bringing up level for play took: 0.003071
+[2019.01.03-19.01.57:689][109]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.01.57:691][109]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.01.57:697][109]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.01.57:698][109]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.01.57:699][109]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.01.57:700][109]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.01.57:703][109]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.01.57:707][109]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.01.57:711][109]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.01.57:715][109]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.01.57:715][109]LogLoad: Took 0.107748 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-19.01.58:328][123]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.01.58:731][132]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.01.59:144][140]LogBlueprintUserMessages: [BP_FloorTile_C_12] Hello
+[2019.01.03-19.01.59:396][144]LogBlueprintUserMessages: [BP_FloorTile_C_13] Hello
+[2019.01.03-19.01.59:817][150]LogBlueprintUserMessages: [BP_FloorTile_C_14] Hello
+[2019.01.03-19.02.00:090][154]LogBlueprintUserMessages: [BP_FloorTile_C_15] Hello
+[2019.01.03-19.02.00:464][160]LogBlueprintUserMessages: [BP_FloorTile_C_16] Hello
+[2019.01.03-19.02.00:757][166]LogBlueprintUserMessages: [BP_FloorTile_C_17] Hello
+[2019.01.03-19.02.01:149][174]LogBlueprintUserMessages: [BP_FloorTile_C_18] Hello
+[2019.01.03-19.02.01:415][179]LogBlueprintUserMessages: [BP_FloorTile_C_19] Hello
+[2019.01.03-19.02.01:955][187]LogBlueprintUserMessages: [BP_FloorTile_C_20] Hello
+[2019.01.03-19.02.02:618][194]LogBlueprintUserMessages: [BP_FloorTile_C_21] Hello
+[2019.01.03-19.02.03:283][200]LogBlueprintUserMessages: [BP_FloorTile_C_22] Hello
+[2019.01.03-19.02.03:908][206]Cmd: RestartLevel
+[2019.01.03-19.02.04:017][207]LogNet: Browse: /Game/ThirdPersonBP/Levels/Level1?restart
+[2019.01.03-19.02.04:114][207]LogLoad: LoadMap: /Game/ThirdPersonBP/Levels/Level1
+[2019.01.03-19.02.04:230][207]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1
+[2019.01.03-19.02.04:236][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005562s)
+[2019.01.03-19.02.04:237][207]LogAIModule: Creating AISystem for world Level1
+[2019.01.03-19.02.04:238][207]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2019.01.03-19.02.04:238][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/Level1.Level1 to /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 (0.007219s)
+[2019.01.03-19.02.04:238][207]LogLoad: Game class is 'RunGameMode_C'
+[2019.01.03-19.02.04:241][207]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.01.03-21.02.04
+[2019.01.03-19.02.04:242][207]LogWorld: Bringing up level for play took: 0.003008
+[2019.01.03-19.02.04:250][207]LogBlueprintUserMessages: [BP_FloorTile_C_0] Hello
+[2019.01.03-19.02.04:252][207]LogBlueprintUserMessages: [BP_FloorTile_C_1] Hello
+[2019.01.03-19.02.04:255][207]LogBlueprintUserMessages: [BP_FloorTile_C_2] Hello
+[2019.01.03-19.02.04:264][207]LogBlueprintUserMessages: [BP_FloorTile_C_3] Hello
+[2019.01.03-19.02.04:268][207]LogBlueprintUserMessages: [BP_FloorTile_C_4] Hello
+[2019.01.03-19.02.04:273][207]LogBlueprintUserMessages: [BP_FloorTile_C_5] Hello
+[2019.01.03-19.02.04:278][207]LogBlueprintUserMessages: [BP_FloorTile_C_6] Hello
+[2019.01.03-19.02.04:280][207]LogBlueprintUserMessages: [BP_FloorTile_C_7] Hello
+[2019.01.03-19.02.04:286][207]LogBlueprintUserMessages: [BP_FloorTile_C_8] Hello
+[2019.01.03-19.02.04:287][207]LogBlueprintUserMessages: [BP_FloorTile_C_9] Hello
+[2019.01.03-19.02.04:287][207]LogLoad: Took 0.174247 seconds to LoadMap(/Game/ThirdPersonBP/Levels/UEDPIE_0_Level1)
+[2019.01.03-19.02.04:859][220]LogBlueprintUserMessages: [BP_FloorTile_C_10] Hello
+[2019.01.03-19.02.05:521][235]LogBlueprintUserMessages: [BP_FloorTile_C_11] Hello
+[2019.01.03-19.02.05:952][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-19.02.06:087][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.03-19.02.06:158][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.03-19.02.06:181][245]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.03-19.02.08:186][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.03-19.02.51:746][627]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Level1_Auto13C7EB50D48A0959C33F1F7A87CD3AC61.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Autosaves/Game/ThirdPersonBP/Levels/Level1_Auto1.umap'
+[2019.01.03-19.02.51:750][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Levels/Level1' took 0.085
+[2019.01.03-19.02.51:750][627]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.085
+[2019.01.03-19.02.51:753][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunCharacter] ([1] browsable assets)...
+[2019.01.03-19.02.51:802][627]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter]
+[2019.01.03-19.02.51:802][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunCharacter]
+[2019.01.03-19.02.51:883][627]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunCharacter_Auto1FC0A93B64E2D610DB133C2838A512F59.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunCharacter_Auto1.uasset'
+[2019.01.03-19.02.51:885][627]LogFileHelpers: Auto-saving content packages took 0.133
+[2019.01.03-19.13.11:628][398]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c4d0a5e0-436a-4e9c-ad6a-3c0e8dbb7bfb} was removed. Shutting down audio device.
+[2019.01.03-19.13.12:060][398]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.03-19.14.30:012][678]LogSlate: Window 'Save Content' being destroyed
+[2019.01.03-19.14.30:129][678]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/RunCharacter2578FE6C498390DD7024C0B20FCBFD48.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.01.03-19.14.30:282][678]LogSavePackage: Moving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Saved/Level1CD824002432A68FD885A28B86D66B885.tmp' to '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-19.14.30:283][678]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap', retrying in .5s...
+[2019.01.03-19.14.30:784][678]LogFileManager: Error: Error deleting file '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'.
+[2019.01.03-19.14.30:784][678]LogSavePackage: Error: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-19.14.30:793][678]EditorErrors: New page: Save Output
+[2019.01.03-19.14.30:793][678]EditorErrors: Warning: Error saving '../../../../../../Users/אורלי/Desktop/4-update temple run/TempleRun - tot_ 4 collect coins/Content/ThirdPersonBP/Levels/Level1.umap'
+[2019.01.03-19.14.30:810][678]LogFileHelpers: Saving map 'Level1' took 0.674
+[2019.01.03-19.14.31:745][678]LogSlate: Window 'Message' being destroyed
+[2019.01.03-19.14.32:749][678]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.01.03-19.14.32:942][678]LogSlate: Window 'Message Log' being destroyed
+[2019.01.03-19.14.32:944][678]LogSlate: Window 'TempleRun - Unreal Editor' being destroyed
+[2019.01.03-19.14.33:165][679]Cmd: QUIT_EDITOR
+[2019.01.03-19.14.33:669][679]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.03-19.14.33:707][679]LogExit: Preparing to exit.
+[2019.01.03-19.14.34:058][679]LogExit: Editor shut down
+[2019.01.03-19.14.34:059][679]LogExit: Transaction tracking system shut down
+[2019.01.03-19.14.34:639][679]LogExit: Object subsystem successfully closed.
+[2019.01.03-19.14.34:664][679]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.03-19.14.34:673][679]LogD3D11RHI: Shutdown
+[2019.01.03-19.14.34:673][679]LogD3D11RHI: CleanupD3DDevice
+[2019.01.03-19.14.34:698][679]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.03-19.14.34:718][679]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2019.01.03-19.14.34:718][679]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.01.03-19.14.34:718][679]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.01.03-19.14.34:718][679]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.01.03-19.14.34:718][679]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.01.03-19.14.34:718][679]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.01.03-19.14.34:723][679]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.01.03-19.14.34:724][679]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.01.03-19.14.34:725][679]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.01.03-19.14.34:725][679]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.01.03-19.14.34:725][679]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.01.03-19.14.34:725][679]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.01.03-19.14.34:725][679]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.01.03-19.14.34:725][679]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.01.03-19.14.34:725][679]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.01.03-19.14.36:239][679]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.01.03-19.14.36:240][679]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.01.03-19.14.36:240][679]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.01.03-19.14.36:240][679]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.01.03-19.14.36:240][679]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.01.03-19.14.36:240][679]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.01.03-19.14.36:240][679]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.01.03-19.14.36:240][679]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.01.03-19.14.36:303][679]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.01.03-19.14.36:303][679]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.01.03-19.14.36:304][679]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.01.03-19.14.36:310][679]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.01.03-19.14.36:311][679]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.03-19.14.36:454][679]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.01.03-19.14.36:455][679]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.03-19.14.36:459][679]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.03-19.14.36:460][679]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.03-19.14.36:461][679]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.03-19.14.36:562][679]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.03-19.14.36:662][679]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.03-19.14.36:662][679]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.03-19.14.36:662][679]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.03-19.14.36:663][679]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.03-19.14.36:663][679]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.03-19.14.36:663][679]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.03-19.14.36:663][679]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.03-19.14.36:667][679]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.03-19.14.36:667][679]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.03-19.14.36:668][679]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.03-19.14.36:668][679]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.03-19.14.36:668][679]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.03-19.14.36:675][679]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.03-19.14.36:675][679]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.03-19.14.36:675][679]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.03-19.14.36:675][679]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.03-19.14.36:675][679]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.03-19.14.36:675][679]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.03-19.14.36:675][679]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.03-19.14.36:682][679]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.03-19.14.36:682][679]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.03-19.14.36:682][679]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.03-19.14.36:682][679]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.03-19.14.36:682][679]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.03-19.14.36:682][679]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.03-19.14.36:683][679]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.03-19.14.36:684][679]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.03-19.14.36:684][679]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.03-19.14.36:684][679]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.03-19.14.36:684][679]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.03-19.14.36:691][679]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.03-19.14.36:692][679]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.03-19.14.36:694][679]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.03-19.14.36:780][679]LogDerivedDataCache: Shutdown
+[2019.01.03-19.14.36:780][679]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.03-19.14.36:781][679]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.03-19.14.36:781][679]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.03-19.14.36:781][679]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.03-19.14.36:781][679]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.03-19.14.36:781][679]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.03-19.14.36:782][679]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.03-19.14.36:782][679]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.03-19.14.36:782][679]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.03-19.14.36:782][679]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.03-19.14.36:782][679]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.03-19.14.36:782][679]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.03-19.14.36:782][679]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.03-19.14.36:783][679]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.03-19.14.36:784][679]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.03-19.14.36:802][679]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.03-19.14.36:802][679]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.03-19.14.36:817][679]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.03-19.14.36:817][679]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.03-19.14.36:875][679]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.03-19.14.36:875][679]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.03-19.14.36:875][679]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.03-19.14.36:876][679]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.03-19.14.36:877][679]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.03-19.14.36:878][679]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.03-19.14.36:892][679]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.03-19.14.36:892][679]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.03-19.14.36:892][679]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA0A101F7-43A1-4477-C437-4BA24D53EAB1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=275563794eb2f285a301eeb9b73aeb10%7C2e359d416f14471aab8308ec227836a8%7C979a699b-0543-4aaa-b7c2-8c9493cd5850&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.03-19.14.36:925][679]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.03-19.14.36:928][679]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.03-19.14.36:928][679]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.03-19.14.36:929][679]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.03-19.14.36:929][679]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.03-19.14.36:929][679]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.03-19.14.36:929][679]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.03-19.14.36:929][679]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.03-19.14.36:929][679]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.03-19.14.36:929][679]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.03-19.14.36:931][679]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.03-19.14.36:935][679]LogExit: Exiting.
+[2019.01.03-19.14.36:953][679]Log file closed, 01/03/19 21:14:36
